@@ -3,7 +3,7 @@
   "fish-pictures": {
    "done": 38,
    "total": 1550,
-   "label": "Fish list: 38 of 1550 done. Now: Tetras, 38 of 144. 422 new pictures live today (UTC)."
+   "label": "Fish list: 38 of 1550 done. Now: Tetras, 38 of 144. 481 new pictures live today (UTC)."
   },
   "encyclopedia": {
    "done": 1197,
@@ -16,25 +16,25 @@
    "label": "Fish pages complete: 144 of 805 (661 still miss some facts)."
   }
  },
- "asof": "2026-10-20 22:25 UTC",
+ "asof": "2026-10-20 23:26 UTC",
  "sections": {
   "site-quality": [
    {
-    "who": "Overnight site test and polish",
-    "state": "working",
-    "last": "20 Oct 22:22 UTC",
-    "hint": ""
+    "who": "TankMates design: speed & style guardian",
+    "state": "stopped",
+    "last": "20 Oct 22:31 UTC",
+    "hint": "Waiting for Boss's answer in that thread."
    },
    {
     "who": "Project progress tracker",
     "state": "working",
-    "last": "20 Oct 22:25 UTC",
+    "last": "20 Oct 23:25 UTC",
     "hint": ""
    },
    {
-    "who": "TankMates design: speed & style guardian",
+    "who": "Layout check on all devices",
     "state": "working",
-    "last": "20 Oct 22:21 UTC",
+    "last": "20 Oct 23:25 UTC",
     "hint": ""
    },
    {
@@ -60,6 +60,12 @@
     "state": "idle",
     "last": "19 Oct 01:06 UTC",
     "hint": ""
+   },
+   {
+    "who": "Overnight site test and polish",
+    "state": "idle",
+    "last": "20 Oct 22:44 UTC",
+    "hint": ""
    }
   ],
   "fish-profile": [
@@ -79,7 +85,7 @@
   "news": [
    {
     "who": "Daily species and news agents",
-    "state": "working",
+    "state": "idle",
     "last": "20 Oct 22:24 UTC",
     "hint": ""
    }
@@ -87,9 +93,9 @@
   "home": [
    {
     "who": "Home page redo",
-    "state": "working",
-    "last": "20 Oct 22:22 UTC",
-    "hint": ""
+    "state": "waiting",
+    "last": "20 Oct 22:42 UTC",
+    "hint": "Ready for Boss to review."
    },
    {
     "who": "Higgsfield hero clips on your Mac",
@@ -110,13 +116,13 @@
    {
     "who": "Fish pictures on your Mac",
     "state": "stopped",
-    "last": "20 Oct 22:19 UTC",
+    "last": "20 Oct 23:00 UTC",
     "hint": "Waiting for Boss's answer in that thread."
    },
    {
     "who": "Species pictures and asset checker",
     "state": "working",
-    "last": "20 Oct 22:21 UTC",
+    "last": "20 Oct 23:19 UTC",
     "hint": ""
    }
   ],
@@ -131,9 +137,9 @@
   "games": [
    {
     "who": "Gamification and daily return",
-    "state": "working",
-    "last": "20 Oct 22:25 UTC",
-    "hint": ""
+    "state": "waiting",
+    "last": "20 Oct 22:38 UTC",
+    "hint": "Ready for Boss to review."
    }
   ],
   "identifier": [
@@ -203,17 +209,17 @@
   "care-health": [
    {
     "who": "Health problems pictures and health agent",
-    "state": "idle",
-    "last": "20 Oct 04:58 UTC",
+    "state": "working",
+    "last": "20 Oct 23:00 UTC",
     "hint": ""
    }
   ],
   "pond": [
    {
     "who": "Pond section build-out",
-    "state": "working",
-    "last": "20 Oct 22:17 UTC",
-    "hint": ""
+    "state": "stopped",
+    "last": "20 Oct 22:28 UTC",
+    "hint": "Waiting for Boss's answer in that thread."
    },
    {
     "who": "Koi varieties and assets",
@@ -301,8 +307,8 @@
   "reptiles": [
    {
     "who": "Reptile section and profiles",
-    "state": "working",
-    "last": "20 Oct 22:18 UTC",
+    "state": "idle",
+    "last": "20 Oct 22:29 UTC",
     "hint": ""
    }
   ],
@@ -318,7 +324,7 @@
    {
     "who": "Complete species coverage agent",
     "state": "working",
-    "last": "20 Oct 22:17 UTC",
+    "last": "20 Oct 23:22 UTC",
     "hint": ""
    },
    {
