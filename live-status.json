@@ -1,67 +1,131 @@
 {
- "asof": "2026-10-20 14:23 UTC",
+ "asof": "2026-10-20 15:10 UTC",
  "sections": {
-  "fish-pictures": [
+  "site-quality": [
    {
-    "who": "Fish pictures on your Mac",
+    "who": "Cloudflare setup on your Mac",
     "state": "working",
-    "last": "20 Oct 14:21 UTC",
+    "last": "20 Oct 14:44 UTC",
     "hint": ""
    },
    {
-    "who": "Species pictures and asset checker",
-    "state": "waiting",
-    "last": "20 Oct 14:21 UTC",
-    "hint": "Ready for Boss to review."
-   }
-  ],
-  "other-pictures": [
+    "who": "Project progress tracker",
+    "state": "working",
+    "last": "20 Oct 15:09 UTC",
+    "hint": ""
+   },
    {
-    "who": "Missing picture prompts and references",
+    "who": "Design agent and style",
     "state": "idle",
-    "last": "20 Oct 11:36 UTC",
+    "last": "19 Oct 00:59 UTC",
+    "hint": ""
+   },
+   {
+    "who": "Agents overview page for Boss",
+    "state": "idle",
+    "last": "20 Oct 03:11 UTC",
+    "hint": ""
+   },
+   {
+    "who": "Share button everywhere",
+    "state": "idle",
+    "last": "19 Oct 01:06 UTC",
+    "hint": ""
+   },
+   {
+    "who": "Overnight site test and polish",
+    "state": "idle",
+    "last": "20 Oct 06:54 UTC",
     "hint": ""
    }
   ],
   "fish-profile": [
    {
+    "who": "Fish profile redesign",
+    "state": "working",
+    "last": "20 Oct 15:06 UTC",
+    "hint": ""
+   },
+   {
     "who": "Species fact checking",
     "state": "idle",
     "last": "20 Oct 11:15 UTC",
     "hint": ""
-   },
-   {
-    "who": "Fish profile redesign",
-    "state": "idle",
-    "last": "19 Oct 08:50 UTC",
-    "hint": ""
    }
   ],
-  "encyclopedia": [
+  "news": [
    {
-    "who": "Complete species coverage agent",
-    "state": "waiting",
-    "last": "20 Oct 11:44 UTC",
-    "hint": "Ready for Boss to review."
-   },
-   {
-    "who": "Explore page categories and filters",
+    "who": "Daily species and news agents",
     "state": "idle",
-    "last": "20 Oct 11:54 UTC",
+    "last": "20 Oct 11:33 UTC",
     "hint": ""
    }
   ],
   "home": [
    {
+    "who": "Home page redo",
+    "state": "idle",
+    "last": "20 Oct 08:06 UTC",
+    "hint": ""
+   },
+   {
     "who": "Higgsfield hero clips on your Mac",
     "state": "idle",
     "last": "20 Oct 12:49 UTC",
     "hint": ""
+   }
+  ],
+  "map": [
+   {
+    "who": "Custom map redesign",
+    "state": "idle",
+    "last": "20 Oct 05:42 UTC",
+    "hint": ""
+   }
+  ],
+  "fish-pictures": [
+   {
+    "who": "Species pictures and asset checker",
+    "state": "working",
+    "last": "20 Oct 15:03 UTC",
+    "hint": ""
    },
    {
-    "who": "Home page redo",
+    "who": "Fish pictures on your Mac",
+    "state": "working",
+    "last": "20 Oct 15:08 UTC",
+    "hint": ""
+   }
+  ],
+  "ready-tanks": [
+   {
+    "who": "Ready-made tanks redo",
     "state": "idle",
-    "last": "20 Oct 08:06 UTC",
+    "last": "20 Oct 05:18 UTC",
+    "hint": ""
+   }
+  ],
+  "games": [
+   {
+    "who": "Gamification and daily return",
+    "state": "waiting",
+    "last": "20 Oct 07:11 UTC",
+    "hint": "Ready for Boss to review."
+   }
+  ],
+  "identifier": [
+   {
+    "who": "Fish identifier redesign",
+    "state": "idle",
+    "last": "17 Oct 18:44 UTC",
+    "hint": ""
+   }
+  ],
+  "planner": [
+   {
+    "who": "Tank Planner redesign",
+    "state": "idle",
+    "last": "19 Oct 00:46 UTC",
     "hint": ""
    }
   ],
@@ -71,6 +135,68 @@
     "state": "stopped",
     "last": "20 Oct 11:47 UTC",
     "hint": "Waiting for Boss's answer in that thread."
+   }
+  ],
+  "profile-person": [
+   {
+    "who": "Sign in and profile",
+    "state": "idle",
+    "last": "19 Oct 02:30 UTC",
+    "hint": ""
+   }
+  ],
+  "premium": [
+   {
+    "who": "Premium plan and perks",
+    "state": "idle",
+    "last": "17 Oct 20:36 UTC",
+    "hint": ""
+   }
+  ],
+  "finn": [
+   {
+    "who": "Ask Finn assistant",
+    "state": "idle",
+    "last": "19 Oct 00:11 UTC",
+    "hint": ""
+   }
+  ],
+  "plants": [
+   {
+    "who": "Plants section and bigger plant library",
+    "state": "idle",
+    "last": "17 Oct 20:18 UTC",
+    "hint": ""
+   }
+  ],
+  "care-food": [
+   {
+    "who": "Live food cultures guides",
+    "state": "idle",
+    "last": "17 Oct 21:20 UTC",
+    "hint": ""
+   }
+  ],
+  "care-health": [
+   {
+    "who": "Health problems pictures and health agent",
+    "state": "idle",
+    "last": "20 Oct 04:58 UTC",
+    "hint": ""
+   }
+  ],
+  "pond": [
+   {
+    "who": "Pond section build-out",
+    "state": "idle",
+    "last": "20 Oct 07:35 UTC",
+    "hint": ""
+   },
+   {
+    "who": "Koi varieties and assets",
+    "state": "idle",
+    "last": "19 Oct 00:20 UTC",
+    "hint": ""
    }
   ],
   "design-studio": [
@@ -87,12 +213,50 @@
     "hint": "Ready for Boss to review."
    }
   ],
-  "games": [
+  "community": [
    {
-    "who": "Gamification and daily return",
-    "state": "waiting",
-    "last": "20 Oct 07:11 UTC",
-    "hint": "Ready for Boss to review."
+    "who": "Ratings and comments",
+    "state": "idle",
+    "last": "17 Oct 22:35 UTC",
+    "hint": ""
+   }
+  ],
+  "care-grow": [
+   {
+    "who": "Useful bacteria section",
+    "state": "idle",
+    "last": "18 Oct 22:21 UTC",
+    "hint": ""
+   }
+  ],
+  "care-tools": [
+   {
+    "who": "Aquarium caves research",
+    "state": "idle",
+    "last": "18 Oct 00:53 UTC",
+    "hint": ""
+   },
+   {
+    "who": "Hardscape pictures on the site",
+    "state": "idle",
+    "last": "19 Oct 22:42 UTC",
+    "hint": ""
+   }
+  ],
+  "breeding": [
+   {
+    "who": "Breeding page visuals redo",
+    "state": "idle",
+    "last": "19 Oct 00:27 UTC",
+    "hint": ""
+   }
+  ],
+  "stingrays": [
+   {
+    "who": "Stingrays page and pictures",
+    "state": "idle",
+    "last": "19 Oct 00:24 UTC",
+    "hint": ""
    }
   ],
   "asset-library": [
@@ -103,19 +267,49 @@
     "hint": "Ready for Boss to review."
    }
   ],
-  "planner": [
+  "referral": [
    {
-    "who": "Tank Planner redesign",
+    "who": "Referral program",
     "state": "idle",
-    "last": "19 Oct 00:46 UTC",
+    "last": "19 Oct 00:49 UTC",
     "hint": ""
    }
   ],
-  "news": [
+  "reptiles": [
    {
-    "who": "Daily species and news agents",
+    "who": "Reptile section and profiles",
     "state": "idle",
-    "last": "20 Oct 11:33 UTC",
+    "last": "20 Oct 06:08 UTC",
+    "hint": ""
+   }
+  ],
+  "shops": [
+   {
+    "who": "Aquarium shops finder and saved shop database",
+    "state": "idle",
+    "last": "20 Oct 03:09 UTC",
+    "hint": ""
+   }
+  ],
+  "encyclopedia": [
+   {
+    "who": "Complete species coverage agent",
+    "state": "waiting",
+    "last": "20 Oct 11:44 UTC",
+    "hint": "Ready for Boss to review."
+   },
+   {
+    "who": "Explore page categories and filters",
+    "state": "idle",
+    "last": "20 Oct 14:34 UTC",
+    "hint": ""
+   }
+  ],
+  "other-pictures": [
+   {
+    "who": "Missing picture prompts and references",
+    "state": "idle",
+    "last": "20 Oct 11:36 UTC",
     "hint": ""
    }
   ]
