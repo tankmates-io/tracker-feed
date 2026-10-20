@@ -1,0 +1,131 @@
+{
+ "asof": "2026-10-20 14:23 UTC",
+ "sections": {
+  "fish-pictures": [
+   {
+    "who": "Fish pictures on your Mac",
+    "state": "working",
+    "last": "20 Oct 14:21 UTC",
+    "hint": ""
+   },
+   {
+    "who": "Species pictures and asset checker",
+    "state": "waiting",
+    "last": "20 Oct 14:21 UTC",
+    "hint": "Ready for Boss to review."
+   }
+  ],
+  "other-pictures": [
+   {
+    "who": "Missing picture prompts and references",
+    "state": "idle",
+    "last": "20 Oct 11:36 UTC",
+    "hint": ""
+   }
+  ],
+  "fish-profile": [
+   {
+    "who": "Species fact checking",
+    "state": "idle",
+    "last": "20 Oct 11:15 UTC",
+    "hint": ""
+   },
+   {
+    "who": "Fish profile redesign",
+    "state": "idle",
+    "last": "19 Oct 08:50 UTC",
+    "hint": ""
+   }
+  ],
+  "encyclopedia": [
+   {
+    "who": "Complete species coverage agent",
+    "state": "waiting",
+    "last": "20 Oct 11:44 UTC",
+    "hint": "Ready for Boss to review."
+   },
+   {
+    "who": "Explore page categories and filters",
+    "state": "idle",
+    "last": "20 Oct 11:54 UTC",
+    "hint": ""
+   }
+  ],
+  "home": [
+   {
+    "who": "Higgsfield hero clips on your Mac",
+    "state": "idle",
+    "last": "20 Oct 12:49 UTC",
+    "hint": ""
+   },
+   {
+    "who": "Home page redo",
+    "state": "idle",
+    "last": "20 Oct 08:06 UTC",
+    "hint": ""
+   }
+  ],
+  "tank-mates": [
+   {
+    "who": "Tank Mates compatibility page",
+    "state": "stopped",
+    "last": "20 Oct 11:47 UTC",
+    "hint": "Waiting for Boss's answer in that thread."
+   }
+  ],
+  "design-studio": [
+   {
+    "who": "Shared Design Studio templates",
+    "state": "stopped",
+    "last": "20 Oct 11:47 UTC",
+    "hint": "Waiting for Boss's answer in that thread."
+   },
+   {
+    "who": "Design Studio engine",
+    "state": "waiting",
+    "last": "20 Oct 11:48 UTC",
+    "hint": "Ready for Boss to review."
+   }
+  ],
+  "games": [
+   {
+    "who": "Gamification and daily return",
+    "state": "waiting",
+    "last": "20 Oct 07:11 UTC",
+    "hint": "Ready for Boss to review."
+   }
+  ],
+  "asset-library": [
+   {
+    "who": "Asset store and stock library",
+    "state": "waiting",
+    "last": "20 Oct 08:00 UTC",
+    "hint": "Ready for Boss to review."
+   }
+  ],
+  "planner": [
+   {
+    "who": "Tank Planner redesign",
+    "state": "idle",
+    "last": "19 Oct 00:46 UTC",
+    "hint": ""
+   }
+  ],
+  "news": [
+   {
+    "who": "Daily species and news agents",
+    "state": "idle",
+    "last": "20 Oct 11:33 UTC",
+    "hint": ""
+   }
+  ]
+ },
+ "other": [
+  {
+   "who": "Boss to-do reminder helper",
+   "state": "stopped",
+   "last": "20 Oct 11:48 UTC",
+   "hint": "Waiting for Boss's answer in that thread."
+  }
+ ]
+}
