@@ -3,16 +3,16 @@
   "fish-pictures": {
    "done": 38,
    "total": 1550,
-   "label": "Fish list: 38 of 1550 done. Now: Tetras, 38 of 144. 419 new pictures live today (UTC)."
+   "label": "Fish list: 38 of 1550 done. Now: Tetras, 38 of 144. 421 new pictures live today (UTC)."
   }
  },
- "asof": "2026-10-20 18:26 UTC",
+ "asof": "2026-10-20 19:26 UTC",
  "sections": {
   "site-quality": [
    {
     "who": "Project progress tracker",
     "state": "working",
-    "last": "20 Oct 18:26 UTC",
+    "last": "20 Oct 19:25 UTC",
     "hint": ""
    },
    {
@@ -92,15 +92,15 @@
   ],
   "fish-pictures": [
    {
-    "who": "Species pictures and asset checker",
-    "state": "working",
-    "last": "20 Oct 18:23 UTC",
-    "hint": ""
+    "who": "Fish pictures on your Mac",
+    "state": "stopped",
+    "last": "20 Oct 19:15 UTC",
+    "hint": "Session is offline (the Mac may be asleep). Reopen it to resume."
    },
    {
-    "who": "Fish pictures on your Mac",
+    "who": "Species pictures and asset checker",
     "state": "working",
-    "last": "20 Oct 18:25 UTC",
+    "last": "20 Oct 19:20 UTC",
     "hint": ""
    }
   ],
