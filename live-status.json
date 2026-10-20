@@ -16,19 +16,25 @@
    "label": "Fish pages complete: 144 of 805 (661 still miss some facts)."
   }
  },
- "asof": "2026-10-20 22:16 UTC",
+ "asof": "2026-10-20 22:25 UTC",
  "sections": {
   "site-quality": [
    {
+    "who": "Overnight site test and polish",
+    "state": "working",
+    "last": "20 Oct 22:22 UTC",
+    "hint": ""
+   },
+   {
     "who": "Project progress tracker",
     "state": "working",
-    "last": "20 Oct 22:14 UTC",
+    "last": "20 Oct 22:25 UTC",
     "hint": ""
    },
    {
     "who": "TankMates design: speed & style guardian",
     "state": "working",
-    "last": "20 Oct 22:14 UTC",
+    "last": "20 Oct 22:21 UTC",
     "hint": ""
    },
    {
@@ -54,12 +60,6 @@
     "state": "idle",
     "last": "19 Oct 01:06 UTC",
     "hint": ""
-   },
-   {
-    "who": "Overnight site test and polish",
-    "state": "idle",
-    "last": "20 Oct 06:54 UTC",
-    "hint": ""
    }
   ],
   "fish-profile": [
@@ -79,16 +79,16 @@
   "news": [
    {
     "who": "Daily species and news agents",
-    "state": "idle",
-    "last": "20 Oct 11:33 UTC",
+    "state": "working",
+    "last": "20 Oct 22:24 UTC",
     "hint": ""
    }
   ],
   "home": [
    {
     "who": "Home page redo",
-    "state": "idle",
-    "last": "20 Oct 08:06 UTC",
+    "state": "working",
+    "last": "20 Oct 22:22 UTC",
     "hint": ""
    },
    {
@@ -110,13 +110,13 @@
    {
     "who": "Fish pictures on your Mac",
     "state": "stopped",
-    "last": "20 Oct 22:09 UTC",
+    "last": "20 Oct 22:19 UTC",
     "hint": "Waiting for Boss's answer in that thread."
    },
    {
     "who": "Species pictures and asset checker",
     "state": "working",
-    "last": "20 Oct 22:13 UTC",
+    "last": "20 Oct 22:21 UTC",
     "hint": ""
    }
   ],
@@ -131,9 +131,9 @@
   "games": [
    {
     "who": "Gamification and daily return",
-    "state": "waiting",
-    "last": "20 Oct 07:11 UTC",
-    "hint": "Ready for Boss to review."
+    "state": "working",
+    "last": "20 Oct 22:25 UTC",
+    "hint": ""
    }
   ],
   "identifier": [
@@ -211,8 +211,8 @@
   "pond": [
    {
     "who": "Pond section build-out",
-    "state": "idle",
-    "last": "20 Oct 07:35 UTC",
+    "state": "working",
+    "last": "20 Oct 22:17 UTC",
     "hint": ""
    },
    {
@@ -301,8 +301,8 @@
   "reptiles": [
    {
     "who": "Reptile section and profiles",
-    "state": "idle",
-    "last": "20 Oct 06:08 UTC",
+    "state": "working",
+    "last": "20 Oct 22:18 UTC",
     "hint": ""
    }
   ],
@@ -318,7 +318,7 @@
    {
     "who": "Complete species coverage agent",
     "state": "working",
-    "last": "20 Oct 22:13 UTC",
+    "last": "20 Oct 22:17 UTC",
     "hint": ""
    },
    {
