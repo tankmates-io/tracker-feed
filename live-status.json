@@ -6,13 +6,13 @@
    "label": "Fish list: 38 of 1550 done. Now: Tetras, 38 of 144. 421 new pictures live today (UTC)."
   }
  },
- "asof": "2026-10-20 20:26 UTC",
+ "asof": "2026-10-20 21:26 UTC",
  "sections": {
   "site-quality": [
    {
     "who": "Project progress tracker",
     "state": "working",
-    "last": "20 Oct 20:26 UTC",
+    "last": "20 Oct 21:26 UTC",
     "hint": ""
    },
    {
@@ -94,7 +94,7 @@
    {
     "who": "Fish pictures on your Mac",
     "state": "stopped",
-    "last": "20 Oct 20:21 UTC",
+    "last": "20 Oct 20:37 UTC",
     "hint": "Session is offline (the Mac may be asleep). Reopen it to resume."
    },
    {
