@@ -1,9 +1,122 @@
 {
+ "images": {
+  "today": 62,
+  "week": 1581,
+  "total": 1581,
+  "perhour": 20.7,
+  "live": 1581,
+  "redo": 23,
+  "vivid": 11,
+  "rejected": 155,
+  "next": "Serpae tetra, male",
+  "last": [
+   {
+    "n": "Ornate tetra longfin",
+    "f": "ornate-tetra__longfin.webp",
+    "t": "23:41"
+   },
+   {
+    "n": "Ornate tetra female",
+    "f": "ornate-tetra__female.webp",
+    "t": "23:38"
+   },
+   {
+    "n": "Koi godan kohaku front",
+    "f": "fishview--koi-godan-kohaku__front.webp",
+    "t": "23:01"
+   },
+   {
+    "n": "Cyperus helferi",
+    "f": "plant--cyperus-helferi.webp",
+    "t": "23:01"
+   },
+   {
+    "n": "Didiplis diandra",
+    "f": "plant--didiplis-diandra.webp",
+    "t": "23:01"
+   },
+   {
+    "n": "Dracaena fragrans",
+    "f": "plant--dracaena-fragrans.webp",
+    "t": "23:01"
+   },
+   {
+    "n": "Curled pondweed",
+    "f": "plant--curled-pondweed.webp",
+    "t": "23:01"
+   },
+   {
+    "n": "Crystalwort",
+    "f": "plant--crystalwort.webp",
+    "t": "23:01"
+   },
+   {
+    "n": "Cryptocoryne beckettii",
+    "f": "plant--cryptocoryne-beckettii.webp",
+    "t": "23:01"
+   },
+   {
+    "n": "Cryptocoryne",
+    "f": "plant--cryptocoryne.webp",
+    "t": "23:01"
+   },
+   {
+    "n": "Cryptocoryne undulata",
+    "f": "plant--cryptocoryne-undulata.webp",
+    "t": "23:01"
+   },
+   {
+    "n": "Crypt wendtii tropica",
+    "f": "plant--crypt-wendtii-tropica.webp",
+    "t": "23:01"
+   },
+   {
+    "n": "Crypt wendtii mi oya",
+    "f": "plant--crypt-wendtii-mi-oya.webp",
+    "t": "23:01"
+   },
+   {
+    "n": "Crypt usteriana",
+    "f": "plant--crypt-usteriana.webp",
+    "t": "23:01"
+   },
+   {
+    "n": "Crypt wendtii brown",
+    "f": "plant--crypt-wendtii-brown.webp",
+    "t": "23:01"
+   },
+   {
+    "n": "Crypt nurii",
+    "f": "plant--crypt-nurii.webp",
+    "t": "23:01"
+   },
+   {
+    "n": "Crypt retrospiralis",
+    "f": "plant--crypt-retrospiralis.webp",
+    "t": "23:01"
+   },
+   {
+    "n": "Crypt flamingo",
+    "f": "plant--crypt-flamingo.webp",
+    "t": "23:01"
+   },
+   {
+    "n": "Crypt florida sunset",
+    "f": "plant--crypt-florida-sunset.webp",
+    "t": "23:01"
+   },
+   {
+    "n": "Crypt cordata",
+    "f": "plant--crypt-cordata.webp",
+    "t": "23:01"
+   }
+  ]
+ },
  "counts": {
   "fish-pictures": {
    "done": 38,
    "total": 1550,
-   "label": "Fish list: 38 of 1550 done. Now: Tetras, 38 of 144. 481 new pictures live today (UTC)."
+   "label": "Fish list: 38 of 1550 done. Now: Tetras, 38 of 144. 483 new pictures live today (UTC)."
   },
   "encyclopedia": {
    "done": 1197,
@@ -16,7 +129,7 @@
    "label": "Fish pages complete: 144 of 805 (661 still miss some facts)."
   }
  },
- "asof": "2026-10-20 23:26 UTC",
+ "asof": "2026-10-20 23:47 UTC",
  "sections": {
   "site-quality": [
    {
@@ -209,7 +322,7 @@
   "care-health": [
    {
     "who": "Health problems pictures and health agent",
-    "state": "working",
+    "state": "idle",
     "last": "20 Oct 23:00 UTC",
     "hint": ""
    }
