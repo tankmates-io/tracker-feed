@@ -1,5 +1,12 @@
 {
- "asof": "2026-10-20 15:10 UTC",
+ "counts": {
+  "fish-pictures": {
+   "done": 40,
+   "total": 1895,
+   "label": "Picture list: 40 of 1895 done"
+  }
+ },
+ "asof": "2026-10-20 15:13 UTC",
  "sections": {
   "site-quality": [
    {
