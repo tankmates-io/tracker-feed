@@ -6,20 +6,20 @@
    "label": "Fish list: 38 of 1550 done. Now: Tetras, 38 of 144. 407 new pictures live today (UTC)."
   }
  },
- "asof": "2026-10-20 15:14 UTC",
+ "asof": "2026-10-20 15:25 UTC",
  "sections": {
   "site-quality": [
    {
-    "who": "Cloudflare setup on your Mac",
+    "who": "Project progress tracker",
     "state": "working",
-    "last": "20 Oct 14:44 UTC",
+    "last": "20 Oct 15:25 UTC",
     "hint": ""
    },
    {
-    "who": "Project progress tracker",
-    "state": "working",
-    "last": "20 Oct 15:09 UTC",
-    "hint": ""
+    "who": "Cloudflare setup on your Mac",
+    "state": "waiting",
+    "last": "20 Oct 14:44 UTC",
+    "hint": "Ready for Boss to review."
    },
    {
     "who": "Design agent and style",
@@ -48,16 +48,16 @@
   ],
   "fish-profile": [
    {
-    "who": "Fish profile redesign",
-    "state": "working",
-    "last": "20 Oct 15:06 UTC",
-    "hint": ""
+    "who": "Species fact checking",
+    "state": "stopped",
+    "last": "20 Oct 15:19 UTC",
+    "hint": "Waiting for Boss's answer in that thread."
    },
    {
-    "who": "Species fact checking",
-    "state": "idle",
-    "last": "20 Oct 11:15 UTC",
-    "hint": ""
+    "who": "Fish profile redesign",
+    "state": "stopped",
+    "last": "20 Oct 15:17 UTC",
+    "hint": "Waiting for Boss's answer in that thread."
    }
   ],
   "news": [
@@ -94,13 +94,13 @@
    {
     "who": "Species pictures and asset checker",
     "state": "working",
-    "last": "20 Oct 15:03 UTC",
+    "last": "20 Oct 15:25 UTC",
     "hint": ""
    },
    {
     "who": "Fish pictures on your Mac",
     "state": "working",
-    "last": "20 Oct 15:08 UTC",
+    "last": "20 Oct 15:24 UTC",
     "hint": ""
    }
   ],
