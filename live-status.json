@@ -116,7 +116,7 @@
   "fish-pictures": {
    "done": 38,
    "total": 1550,
-   "label": "Fish list: 38 of 1550 done. Now: Tetras, 38 of 144. 483 new pictures live today (UTC)."
+   "label": "Fish list: 38 of 1550 done. Now: Tetras, 38 of 144. 0 new pictures live today (UTC)."
   },
   "encyclopedia": {
    "done": 1197,
@@ -129,7 +129,7 @@
    "label": "Fish pages complete: 144 of 805 (661 still miss some facts)."
   }
  },
- "asof": "2026-10-20 23:47 UTC",
+ "asof": "2026-10-21 00:07 UTC",
  "sections": {
   "site-quality": [
    {
@@ -139,21 +139,27 @@
     "hint": "Waiting for Boss's answer in that thread."
    },
    {
+    "who": "Cloudflare setup on your Mac",
+    "state": "working",
+    "last": "21 Oct 00:06 UTC",
+    "hint": "Checks the live site and the hosting."
+   },
+   {
     "who": "Project progress tracker",
     "state": "working",
-    "last": "20 Oct 23:25 UTC",
-    "hint": ""
+    "last": "21 Oct 00:07 UTC",
+    "hint": "Keeps this progress page up to date."
+   },
+   {
+    "who": "Local prices across the site",
+    "state": "working",
+    "last": "21 Oct 00:06 UTC",
+    "hint": "Shows prices for the visitor's own country everywhere."
    },
    {
     "who": "Layout check on all devices",
-    "state": "working",
-    "last": "20 Oct 23:25 UTC",
-    "hint": ""
-   },
-   {
-    "who": "Cloudflare setup on your Mac",
     "state": "waiting",
-    "last": "20 Oct 17:47 UTC",
+    "last": "20 Oct 23:31 UTC",
     "hint": "Ready for Boss to review."
    },
    {
@@ -220,39 +226,39 @@
   "map": [
    {
     "who": "Custom map redesign",
-    "state": "idle",
-    "last": "20 Oct 05:42 UTC",
-    "hint": ""
+    "state": "working",
+    "last": "21 Oct 00:07 UTC",
+    "hint": "Redesigns the world map."
    }
   ],
   "fish-pictures": [
    {
-    "who": "Fish pictures on your Mac",
+    "who": "Species pictures and asset checker",
     "state": "stopped",
-    "last": "20 Oct 23:00 UTC",
+    "last": "21 Oct 00:01 UTC",
     "hint": "Waiting for Boss's answer in that thread."
    },
    {
-    "who": "Species pictures and asset checker",
+    "who": "Fish pictures on your Mac",
     "state": "working",
-    "last": "20 Oct 23:19 UTC",
-    "hint": ""
+    "last": "21 Oct 00:07 UTC",
+    "hint": "Makes the fish pictures one by one, Tetras first."
    }
   ],
   "ready-tanks": [
    {
     "who": "Ready-made tanks redo",
     "state": "idle",
-    "last": "20 Oct 05:18 UTC",
+    "last": "20 Oct 23:59 UTC",
     "hint": ""
    }
   ],
   "games": [
    {
     "who": "Gamification and daily return",
-    "state": "waiting",
-    "last": "20 Oct 22:38 UTC",
-    "hint": "Ready for Boss to review."
+    "state": "working",
+    "last": "21 Oct 00:07 UTC",
+    "hint": "Builds the games and daily reasons to come back."
    }
   ],
   "identifier": [
@@ -261,6 +267,12 @@
     "state": "idle",
     "last": "17 Oct 18:44 UTC",
     "hint": ""
+   },
+   {
+    "who": "Fish identifier finish",
+    "state": "idle",
+    "last": "21 Oct 00:01 UTC",
+    "hint": ""
    }
   ],
   "planner": [
@@ -268,6 +280,12 @@
     "who": "Tank Planner redesign",
     "state": "idle",
     "last": "19 Oct 00:46 UTC",
+    "hint": ""
+   },
+   {
+    "who": "Tank Planner finish",
+    "state": "idle",
+    "last": "21 Oct 00:04 UTC",
     "hint": ""
    }
   ],
@@ -297,6 +315,12 @@
   ],
   "finn": [
    {
+    "who": "Ask Finn finish",
+    "state": "working",
+    "last": "21 Oct 00:07 UTC",
+    "hint": "Finishes the unfinished parts of Ask Finn."
+   },
+   {
     "who": "Ask Finn assistant",
     "state": "idle",
     "last": "19 Oct 00:11 UTC",
@@ -312,6 +336,12 @@
    }
   ],
   "care-food": [
+   {
+    "who": "Foods and medicines finish",
+    "state": "working",
+    "last": "21 Oct 00:06 UTC",
+    "hint": "Finishes the foods and medicines pages."
+   },
    {
     "who": "Live food cultures guides",
     "state": "idle",
@@ -330,9 +360,9 @@
   "pond": [
    {
     "who": "Pond section build-out",
-    "state": "stopped",
-    "last": "20 Oct 22:28 UTC",
-    "hint": "Waiting for Boss's answer in that thread."
+    "state": "working",
+    "last": "21 Oct 00:04 UTC",
+    "hint": "Builds the pond section."
    },
    {
     "who": "Koi varieties and assets",
@@ -373,6 +403,12 @@
   ],
   "care-tools": [
    {
+    "who": "Care library finish",
+    "state": "working",
+    "last": "21 Oct 00:05 UTC",
+    "hint": "Finishes the care library guides and printables."
+   },
+   {
     "who": "Aquarium caves research",
     "state": "idle",
     "last": "18 Oct 00:53 UTC",
@@ -386,6 +422,12 @@
    }
   ],
   "breeding": [
+   {
+    "who": "Breeding section finish",
+    "state": "stopped",
+    "last": "21 Oct 00:03 UTC",
+    "hint": "Waiting for Boss's answer in that thread."
+   },
    {
     "who": "Breeding page visuals redo",
     "state": "idle",
@@ -420,25 +462,25 @@
   "reptiles": [
    {
     "who": "Reptile section and profiles",
-    "state": "idle",
-    "last": "20 Oct 22:29 UTC",
-    "hint": ""
+    "state": "working",
+    "last": "21 Oct 00:05 UTC",
+    "hint": "Builds the reptile section."
    }
   ],
   "shops": [
    {
     "who": "Aquarium shops finder and saved shop database",
-    "state": "idle",
-    "last": "20 Oct 03:09 UTC",
-    "hint": ""
+    "state": "stopped",
+    "last": "21 Oct 00:04 UTC",
+    "hint": "Waiting for Boss's answer in that thread."
    }
   ],
   "encyclopedia": [
    {
     "who": "Complete species coverage agent",
-    "state": "working",
+    "state": "waiting",
     "last": "20 Oct 23:22 UTC",
-    "hint": ""
+    "hint": "Ready for Boss to review."
    },
    {
     "who": "Explore page categories and filters",
