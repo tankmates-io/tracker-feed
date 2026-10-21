@@ -1,15 +1,75 @@
 {
  "images": {
-  "today": 67,
-  "week": 1586,
-  "total": 1586,
-  "perhour": 22.3,
-  "live": 1586,
+  "today": 79,
+  "week": 1598,
+  "total": 1598,
+  "perhour": 26.0,
+  "live": 1598,
   "redo": 23,
   "vivid": 11,
   "rejected": 155,
   "next": "X-ray tetra, female",
   "last": [
+   {
+    "n": "Dawn tetra male",
+    "f": "dawn-tetra__male.webp",
+    "t": "01:13"
+   },
+   {
+    "n": "Dawn tetra",
+    "f": "dawn-tetra.webp",
+    "t": "01:10"
+   },
+   {
+    "n": "Coral red pencilfish",
+    "f": "coral-red-pencilfish.webp",
+    "t": "01:06"
+   },
+   {
+    "n": "Colombian tetra female",
+    "f": "colombian-tetra__female.webp",
+    "t": "01:03"
+   },
+   {
+    "n": "Colombian tetra male",
+    "f": "colombian-tetra__male.webp",
+    "t": "01:00"
+   },
+   {
+    "n": "Colombian tetra",
+    "f": "colombian-tetra.webp",
+    "t": "00:56"
+   },
+   {
+    "n": "Buenos aires tetra female",
+    "f": "buenos-aires-tetra__female.webp",
+    "t": "00:50"
+   },
+   {
+    "n": "Buenos aires tetra male",
+    "f": "buenos-aires-tetra__male.webp",
+    "t": "00:43"
+   },
+   {
+    "n": "Buenos aires tetra",
+    "f": "buenos-aires-tetra.webp",
+    "t": "00:39"
+   },
+   {
+    "n": "Blue tetra",
+    "f": "blue-tetra.webp",
+    "t": "00:27"
+   },
+   {
+    "n": "Blackline penguin tetra",
+    "f": "blackline-penguin-tetra.webp",
+    "t": "00:23"
+   },
+   {
+    "n": "Black morpho tetra female",
+    "f": "black-morpho-tetra__female.webp",
+    "t": "00:10"
+   },
    {
     "n": "Black morpho tetra male",
     "f": "black-morpho-tetra__male.webp",
@@ -49,66 +109,6 @@
     "n": "Koi godan kohaku front",
     "f": "fishview--koi-godan-kohaku__front.webp",
     "t": "23:01"
-   },
-   {
-    "n": "Cyperus helferi",
-    "f": "plant--cyperus-helferi.webp",
-    "t": "23:01"
-   },
-   {
-    "n": "Didiplis diandra",
-    "f": "plant--didiplis-diandra.webp",
-    "t": "23:01"
-   },
-   {
-    "n": "Dracaena fragrans",
-    "f": "plant--dracaena-fragrans.webp",
-    "t": "23:01"
-   },
-   {
-    "n": "Curled pondweed",
-    "f": "plant--curled-pondweed.webp",
-    "t": "23:01"
-   },
-   {
-    "n": "Crystalwort",
-    "f": "plant--crystalwort.webp",
-    "t": "23:01"
-   },
-   {
-    "n": "Cryptocoryne beckettii",
-    "f": "plant--cryptocoryne-beckettii.webp",
-    "t": "23:01"
-   },
-   {
-    "n": "Cryptocoryne",
-    "f": "plant--cryptocoryne.webp",
-    "t": "23:01"
-   },
-   {
-    "n": "Cryptocoryne undulata",
-    "f": "plant--cryptocoryne-undulata.webp",
-    "t": "23:01"
-   },
-   {
-    "n": "Crypt wendtii tropica",
-    "f": "plant--crypt-wendtii-tropica.webp",
-    "t": "23:01"
-   },
-   {
-    "n": "Crypt wendtii mi oya",
-    "f": "plant--crypt-wendtii-mi-oya.webp",
-    "t": "23:01"
-   },
-   {
-    "n": "Crypt usteriana",
-    "f": "plant--crypt-usteriana.webp",
-    "t": "23:01"
-   },
-   {
-    "n": "Crypt wendtii brown",
-    "f": "plant--crypt-wendtii-brown.webp",
-    "t": "23:01"
    }
   ]
  },
@@ -116,7 +116,7 @@
   "fish-pictures": {
    "done": 64,
    "total": 1579,
-   "label": "Fish list: 64 of 1579 done. Now: Tetras, 88 of 173. 5 new pictures live today (UTC)."
+   "label": "Fish list: 64 of 1579 done. Now: Tetras, 88 of 173. 17 new pictures live today (UTC)."
   },
   "encyclopedia": {
    "done": 1226,
@@ -129,7 +129,7 @@
    "label": "Fish pages complete: 173 of 834 (661 still miss some facts)."
   }
  },
- "asof": "2026-10-21 00:40 UTC",
+ "asof": "2026-10-21 01:25 UTC",
  "sections": {
   "site-quality": [
    {
@@ -139,34 +139,22 @@
     "hint": "Waiting for Boss's answer in that thread."
    },
    {
-    "who": "Project progress tracker",
-    "state": "working",
-    "last": "21 Oct 00:25 UTC",
-    "hint": "Keeps this progress page up to date."
-   },
-   {
-    "who": "Layout check on all devices",
-    "state": "working",
-    "last": "21 Oct 00:22 UTC",
-    "hint": "Checks every page on phone, tablet and computer and fixes broken layouts."
-   },
-   {
-    "who": "Admin and Super admin panels",
-    "state": "working",
-    "last": "21 Oct 00:25 UTC",
-    "hint": "Builds the admin and super admin panels."
-   },
-   {
-    "who": "Site polish icons and search",
-    "state": "working",
-    "last": "21 Oct 00:25 UTC",
-    "hint": "Polishes icons and the site search."
+    "who": "Two-step login with authenticator app",
+    "state": "stopped",
+    "last": "21 Oct 01:11 UTC",
+    "hint": "Waiting for Boss's answer in that thread."
    },
    {
     "who": "Cloudflare setup on your Mac",
-    "state": "idle",
-    "last": "21 Oct 00:23 UTC",
-    "hint": ""
+    "state": "working",
+    "last": "21 Oct 01:25 UTC",
+    "hint": "Checks the live site and the hosting."
+   },
+   {
+    "who": "Project progress tracker",
+    "state": "working",
+    "last": "21 Oct 01:25 UTC",
+    "hint": "Keeps this progress page up to date."
    },
    {
     "who": "Design agent and style",
@@ -193,9 +181,27 @@
     "hint": ""
    },
    {
+    "who": "Layout check on all devices",
+    "state": "idle",
+    "last": "21 Oct 01:18 UTC",
+    "hint": ""
+   },
+   {
     "who": "Local prices across the site",
     "state": "idle",
     "last": "21 Oct 00:18 UTC",
+    "hint": ""
+   },
+   {
+    "who": "Admin and Super admin panels",
+    "state": "idle",
+    "last": "21 Oct 00:57 UTC",
+    "hint": ""
+   },
+   {
+    "who": "Site polish icons and search",
+    "state": "idle",
+    "last": "21 Oct 00:47 UTC",
     "hint": ""
    }
   ],
@@ -224,9 +230,9 @@
   "home": [
    {
     "who": "Home page redo",
-    "state": "working",
-    "last": "21 Oct 00:25 UTC",
-    "hint": "Redoes the home page."
+    "state": "stopped",
+    "last": "21 Oct 00:42 UTC",
+    "hint": "Waiting for Boss's answer in that thread."
    },
    {
     "who": "Higgsfield hero clips on your Mac",
@@ -245,24 +251,24 @@
   ],
   "fish-pictures": [
    {
-    "who": "Fish pictures on your Mac",
+    "who": "Species pictures and asset checker",
     "state": "working",
-    "last": "21 Oct 00:25 UTC",
-    "hint": "Makes the fish pictures one by one, Tetras first."
+    "last": "21 Oct 01:24 UTC",
+    "hint": "Checks every new fish picture and puts the good ones on the site."
    },
    {
-    "who": "Species pictures and asset checker",
-    "state": "idle",
-    "last": "21 Oct 00:24 UTC",
-    "hint": ""
+    "who": "Fish pictures on your Mac",
+    "state": "working",
+    "last": "21 Oct 01:24 UTC",
+    "hint": "Makes the fish pictures one by one, Tetras first."
    }
   ],
   "ready-tanks": [
    {
     "who": "Ready-made tanks redo",
-    "state": "idle",
+    "state": "waiting",
     "last": "21 Oct 00:10 UTC",
-    "hint": ""
+    "hint": "Ready for Boss to review."
    }
   ],
   "games": [
@@ -289,15 +295,15 @@
   ],
   "planner": [
    {
-    "who": "Tank Planner finish",
-    "state": "stopped",
-    "last": "21 Oct 00:20 UTC",
-    "hint": "Waiting for Boss's answer in that thread."
-   },
-   {
     "who": "Tank Planner redesign",
     "state": "idle",
     "last": "19 Oct 00:46 UTC",
+    "hint": ""
+   },
+   {
+    "who": "Tank Planner finish",
+    "state": "idle",
+    "last": "21 Oct 00:59 UTC",
     "hint": ""
    }
   ],
@@ -327,38 +333,38 @@
   ],
   "finn": [
    {
-    "who": "Ask Finn finish",
-    "state": "working",
-    "last": "21 Oct 00:25 UTC",
-    "hint": "Finishes the unfinished parts of Ask Finn."
-   },
-   {
     "who": "Ask Finn assistant",
     "state": "idle",
     "last": "19 Oct 00:11 UTC",
+    "hint": ""
+   },
+   {
+    "who": "Ask Finn finish",
+    "state": "idle",
+    "last": "21 Oct 00:35 UTC",
     "hint": ""
    }
   ],
   "plants": [
    {
-    "who": "Plants checks and gaps",
-    "state": "working",
-    "last": "21 Oct 00:25 UTC",
-    "hint": "Checks the plant pages and fills what is missing."
-   },
-   {
     "who": "Plants section and bigger plant library",
     "state": "idle",
     "last": "17 Oct 20:18 UTC",
+    "hint": ""
+   },
+   {
+    "who": "Plants checks and gaps",
+    "state": "idle",
+    "last": "21 Oct 00:39 UTC",
     "hint": ""
    }
   ],
   "care-food": [
    {
     "who": "Foods and medicines finish",
-    "state": "working",
+    "state": "stopped",
     "last": "21 Oct 00:25 UTC",
-    "hint": "Finishes the foods and medicines pages."
+    "hint": "Waiting for Boss's answer in that thread."
    },
    {
     "who": "Live food cultures guides",
@@ -377,12 +383,6 @@
   ],
   "pond": [
    {
-    "who": "Koi, stingrays and caves cleanup",
-    "state": "working",
-    "last": "21 Oct 00:25 UTC",
-    "hint": "Cleans up the koi, stingray and cave pages."
-   },
-   {
     "who": "Pond section build-out",
     "state": "waiting",
     "last": "21 Oct 00:04 UTC",
@@ -393,20 +393,26 @@
     "state": "idle",
     "last": "19 Oct 00:20 UTC",
     "hint": ""
+   },
+   {
+    "who": "Koi, stingrays and caves cleanup",
+    "state": "idle",
+    "last": "21 Oct 00:41 UTC",
+    "hint": ""
    }
   ],
   "design-studio": [
+   {
+    "who": "Design Studio engine",
+    "state": "stopped",
+    "last": "21 Oct 00:33 UTC",
+    "hint": "Waiting for Boss's answer in that thread."
+   },
    {
     "who": "Shared Design Studio templates",
     "state": "stopped",
     "last": "20 Oct 11:47 UTC",
     "hint": "Waiting for Boss's answer in that thread."
-   },
-   {
-    "who": "Design Studio engine",
-    "state": "working",
-    "last": "21 Oct 00:25 UTC",
-    "hint": "Builds the Design Studio tools."
    }
   ],
   "community": [
@@ -427,12 +433,6 @@
   ],
   "care-tools": [
    {
-    "who": "Care library finish",
-    "state": "working",
-    "last": "21 Oct 00:22 UTC",
-    "hint": "Finishes the care library guides and printables."
-   },
-   {
     "who": "Aquarium caves research",
     "state": "idle",
     "last": "18 Oct 00:53 UTC",
@@ -442,6 +442,12 @@
     "who": "Hardscape pictures on the site",
     "state": "idle",
     "last": "19 Oct 22:42 UTC",
+    "hint": ""
+   },
+   {
+    "who": "Care library finish",
+    "state": "idle",
+    "last": "21 Oct 00:33 UTC",
     "hint": ""
    }
   ],
@@ -502,9 +508,9 @@
   "encyclopedia": [
    {
     "who": "Complete species coverage agent",
-    "state": "working",
-    "last": "21 Oct 00:19 UTC",
-    "hint": "Adds about 50 new market species a day with fact-checked profiles."
+    "state": "waiting",
+    "last": "21 Oct 00:40 UTC",
+    "hint": "Ready for Boss to review."
    },
    {
     "who": "Explore page categories and filters",
