@@ -114,22 +114,22 @@
  },
  "counts": {
   "fish-pictures": {
-   "done": 35,
-   "total": 1550,
-   "label": "Fish list: 35 of 1550 done. Now: Tetras, 59 of 144. 5 new pictures live today (UTC)."
+   "done": 64,
+   "total": 1579,
+   "label": "Fish list: 64 of 1579 done. Now: Tetras, 88 of 173. 5 new pictures live today (UTC)."
   },
   "encyclopedia": {
-   "done": 1197,
+   "done": 1226,
    "total": 2500,
-   "label": "Species with a full page: 805 fish + 392 plants = 1197 of about 2500 goal."
+   "label": "Species with a full page: 834 fish + 392 plants = 1226 of about 2500 goal."
   },
   "fish-profile": {
-   "done": 144,
-   "total": 805,
-   "label": "Fish pages complete: 144 of 805 (661 still miss some facts)."
+   "done": 173,
+   "total": 834,
+   "label": "Fish pages complete: 173 of 834 (661 still miss some facts)."
   }
  },
- "asof": "2026-10-21 00:25 UTC",
+ "asof": "2026-10-21 00:40 UTC",
  "sections": {
   "site-quality": [
    {
@@ -377,16 +377,16 @@
   ],
   "pond": [
    {
-    "who": "Pond section build-out",
-    "state": "working",
-    "last": "21 Oct 00:04 UTC",
-    "hint": "Builds the pond section."
-   },
-   {
     "who": "Koi, stingrays and caves cleanup",
     "state": "working",
     "last": "21 Oct 00:25 UTC",
     "hint": "Cleans up the koi, stingray and cave pages."
+   },
+   {
+    "who": "Pond section build-out",
+    "state": "waiting",
+    "last": "21 Oct 00:04 UTC",
+    "hint": "Ready for Boss to review."
    },
    {
     "who": "Koi varieties and assets",
@@ -486,9 +486,9 @@
   "reptiles": [
    {
     "who": "Reptile section and profiles",
-    "state": "working",
+    "state": "waiting",
     "last": "21 Oct 00:05 UTC",
-    "hint": "Builds the reptile section."
+    "hint": "Ready for Boss to review."
    }
   ],
   "shops": [
