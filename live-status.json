@@ -1,15 +1,70 @@
 {
  "images": {
-  "today": 120,
-  "week": 1639,
-  "total": 1639,
-  "perhour": 8.7,
-  "live": 1639,
-  "redo": 24,
+  "today": 131,
+  "week": 1650,
+  "total": 1650,
+  "perhour": 9.0,
+  "live": 1650,
+  "redo": 25,
   "vivid": 11,
-  "rejected": 156,
+  "rejected": 157,
   "next": "X-ray tetra, female",
   "last": [
+   {
+    "n": "Striped headstander",
+    "f": "striped-headstander.webp",
+    "t": "05:58"
+   },
+   {
+    "n": "Spotted silver dollar female",
+    "f": "spotted-silver-dollar__female.webp",
+    "t": "05:52"
+   },
+   {
+    "n": "Spotted silver dollar male",
+    "f": "spotted-silver-dollar__male.webp",
+    "t": "05:45"
+   },
+   {
+    "n": "Spotted silver dollar",
+    "f": "spotted-silver-dollar.webp",
+    "t": "05:38"
+   },
+   {
+    "n": "Spotted headstander",
+    "f": "spotted-headstander.webp",
+    "t": "05:32"
+   },
+   {
+    "n": "Splashing tetra female",
+    "f": "splashing-tetra__female.webp",
+    "t": "05:29"
+   },
+   {
+    "n": "Splashing tetra male",
+    "f": "splashing-tetra__male.webp",
+    "t": "05:25"
+   },
+   {
+    "n": "Splashing tetra",
+    "f": "splashing-tetra.webp",
+    "t": "05:19"
+   },
+   {
+    "n": "Silvertip tetra female",
+    "f": "silvertip-tetra__female.webp",
+    "t": "05:12"
+   },
+   {
+    "n": "Silvertip tetra male",
+    "f": "silvertip-tetra__male.webp",
+    "t": "05:06"
+   },
+   {
+    "n": "Silvertip tetra",
+    "f": "silvertip-tetra.webp",
+    "t": "05:02"
+   },
    {
     "n": "Silver hatchetfish",
     "f": "silver-hatchetfish.webp",
@@ -54,61 +109,6 @@
     "n": "Red spotted copeina male",
     "f": "red-spotted-copeina__male.webp",
     "t": "04:02"
-   },
-   {
-    "n": "Red phantom tetra female",
-    "f": "red-phantom-tetra__female.webp",
-    "t": "03:52"
-   },
-   {
-    "n": "Red phantom tetra male",
-    "f": "red-phantom-tetra__male.webp",
-    "t": "03:49"
-   },
-   {
-    "n": "Red phantom tetra",
-    "f": "red-phantom-tetra.webp",
-    "t": "03:45"
-   },
-   {
-    "n": "Red hook silver dollar female",
-    "f": "red-hook-silver-dollar__female.webp",
-    "t": "03:39"
-   },
-   {
-    "n": "Red hook silver dollar male",
-    "f": "red-hook-silver-dollar__male.webp",
-    "t": "03:36"
-   },
-   {
-    "n": "Red hook silver dollar",
-    "f": "red-hook-silver-dollar.webp",
-    "t": "03:32"
-   },
-   {
-    "n": "Red eyed tetra",
-    "f": "red-eyed-tetra.webp",
-    "t": "03:26"
-   },
-   {
-    "n": "Red eye tetra",
-    "f": "red-eye-tetra.webp",
-    "t": "03:19"
-   },
-   {
-    "n": "One striped african characin female",
-    "f": "one-striped-african-characin__female.webp",
-    "t": "03:09"
-   },
-   {
-    "n": "One striped african characin male",
-    "f": "one-striped-african-characin__male.webp",
-    "t": "03:02"
-   },
-   {
-    "n": "One striped african characin",
-    "f": "one-striped-african-characin.webp",
-    "t": "02:55"
    }
   ]
  },
@@ -116,7 +116,7 @@
   "fish-pictures": {
    "done": 64,
    "total": 1579,
-   "label": "Fish list: 64 of 1579 done. Now: Tetras, 88 of 173. 58 new pictures live today (UTC)."
+   "label": "Fish list: 64 of 1579 done. Now: Tetras, 88 of 173. 69 new pictures live today (UTC)."
   },
   "encyclopedia": {
    "done": 1226,
@@ -129,7 +129,7 @@
    "label": "Fish pages complete: 173 of 834 (661 still miss some facts)."
   }
  },
- "asof": "2026-10-21 05:26 UTC",
+ "asof": "2026-10-21 06:26 UTC",
  "sections": {
   "site-quality": [
    {
@@ -141,7 +141,7 @@
    {
     "who": "Project progress tracker",
     "state": "working",
-    "last": "21 Oct 05:26 UTC",
+    "last": "21 Oct 06:25 UTC",
     "hint": "Keeps this progress page up to date."
    },
    {
@@ -257,16 +257,22 @@
   ],
   "fish-pictures": [
    {
-    "who": "Species pictures and asset checker",
-    "state": "working",
-    "last": "21 Oct 05:16 UTC",
-    "hint": "Checks every new fish picture and puts the good ones on the site."
-   },
-   {
     "who": "Fish pictures on your Mac",
     "state": "working",
-    "last": "21 Oct 05:25 UTC",
+    "last": "21 Oct 06:25 UTC",
     "hint": "Makes the fish pictures one by one, Tetras first."
+   },
+   {
+    "who": "Species pictures and asset checker",
+    "state": "idle",
+    "last": "21 Oct 06:23 UTC",
+    "hint": ""
+   },
+   {
+    "who": "Daily picture audit",
+    "state": "idle",
+    "last": "21 Oct 06:06 UTC",
+    "hint": ""
    }
   ],
   "ready-tanks": [
@@ -409,16 +415,16 @@
   ],
   "design-studio": [
    {
-    "who": "Design Studio engine",
-    "state": "stopped",
-    "last": "21 Oct 00:33 UTC",
-    "hint": "Waiting for Boss's answer in that thread."
-   },
-   {
     "who": "Shared Design Studio templates",
     "state": "stopped",
     "last": "20 Oct 11:47 UTC",
     "hint": "Waiting for Boss's answer in that thread."
+   },
+   {
+    "who": "Design Studio engine",
+    "state": "working",
+    "last": "21 Oct 06:25 UTC",
+    "hint": "Builds the Design Studio tools."
    }
   ],
   "community": [
