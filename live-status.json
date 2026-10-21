@@ -1,15 +1,65 @@
 {
  "images": {
-  "today": 104,
-  "week": 1623,
-  "total": 1623,
-  "perhour": 11.7,
-  "live": 1623,
-  "redo": 23,
+  "today": 114,
+  "week": 1633,
+  "total": 1633,
+  "perhour": 11.3,
+  "live": 1633,
+  "redo": 24,
   "vivid": 11,
-  "rejected": 155,
+  "rejected": 156,
   "next": "X-ray tetra, female",
   "last": [
+   {
+    "n": "Royal tetra male",
+    "f": "royal-tetra__male.webp",
+    "t": "04:19"
+   },
+   {
+    "n": "Royal tetra",
+    "f": "royal-tetra.webp",
+    "t": "04:15"
+   },
+   {
+    "n": "Red spotted copeina male",
+    "f": "red-spotted-copeina__male.webp",
+    "t": "04:02"
+   },
+   {
+    "n": "Red phantom tetra female",
+    "f": "red-phantom-tetra__female.webp",
+    "t": "03:52"
+   },
+   {
+    "n": "Red phantom tetra male",
+    "f": "red-phantom-tetra__male.webp",
+    "t": "03:49"
+   },
+   {
+    "n": "Red phantom tetra",
+    "f": "red-phantom-tetra.webp",
+    "t": "03:45"
+   },
+   {
+    "n": "Red hook silver dollar female",
+    "f": "red-hook-silver-dollar__female.webp",
+    "t": "03:39"
+   },
+   {
+    "n": "Red hook silver dollar male",
+    "f": "red-hook-silver-dollar__male.webp",
+    "t": "03:36"
+   },
+   {
+    "n": "Red hook silver dollar",
+    "f": "red-hook-silver-dollar.webp",
+    "t": "03:32"
+   },
+   {
+    "n": "Red eyed tetra",
+    "f": "red-eyed-tetra.webp",
+    "t": "03:26"
+   },
    {
     "n": "Red eye tetra",
     "f": "red-eye-tetra.webp",
@@ -59,56 +109,6 @@
     "n": "High hat headstander",
     "f": "high-hat-headstander.webp",
     "t": "02:29"
-   },
-   {
-    "n": "Green neon tetra",
-    "f": "green-neon-tetra.webp",
-    "t": "02:22"
-   },
-   {
-    "n": "Gold tetra",
-    "f": "gold-tetra.webp",
-    "t": "02:19"
-   },
-   {
-    "n": "Glass tetra",
-    "f": "glass-tetra.webp",
-    "t": "02:16"
-   },
-   {
-    "n": "Glass bloodfin tetra",
-    "f": "glass-bloodfin-tetra.webp",
-    "t": "02:09"
-   },
-   {
-    "n": "Giant hatchetfish",
-    "f": "giant-hatchetfish.webp",
-    "t": "02:06"
-   },
-   {
-    "n": "Flame tetra female",
-    "f": "flame-tetra__female.webp",
-    "t": "02:03"
-   },
-   {
-    "n": "Flame tetra male",
-    "f": "flame-tetra__male.webp",
-    "t": "01:59"
-   },
-   {
-    "n": "Flame tetra",
-    "f": "flame-tetra.webp",
-    "t": "01:56"
-   },
-   {
-    "n": "Flag tetra",
-    "f": "flag-tetra.webp",
-    "t": "01:52"
-   },
-   {
-    "n": "False rummynose tetra",
-    "f": "false-rummynose-tetra.webp",
-    "t": "01:46"
    }
   ]
  },
@@ -116,7 +116,7 @@
   "fish-pictures": {
    "done": 64,
    "total": 1579,
-   "label": "Fish list: 64 of 1579 done. Now: Tetras, 88 of 173. 42 new pictures live today (UTC)."
+   "label": "Fish list: 64 of 1579 done. Now: Tetras, 88 of 173. 52 new pictures live today (UTC)."
   },
   "encyclopedia": {
    "done": 1226,
@@ -129,7 +129,7 @@
    "label": "Fish pages complete: 173 of 834 (661 still miss some facts)."
   }
  },
- "asof": "2026-10-21 03:25 UTC",
+ "asof": "2026-10-21 04:26 UTC",
  "sections": {
   "site-quality": [
    {
@@ -141,7 +141,7 @@
    {
     "who": "Project progress tracker",
     "state": "working",
-    "last": "21 Oct 03:25 UTC",
+    "last": "21 Oct 04:25 UTC",
     "hint": "Keeps this progress page up to date."
    },
    {
@@ -253,13 +253,13 @@
    {
     "who": "Species pictures and asset checker",
     "state": "working",
-    "last": "21 Oct 03:25 UTC",
+    "last": "21 Oct 04:25 UTC",
     "hint": "Checks every new fish picture and puts the good ones on the site."
    },
    {
     "who": "Fish pictures on your Mac",
     "state": "working",
-    "last": "21 Oct 03:25 UTC",
+    "last": "21 Oct 04:25 UTC",
     "hint": "Makes the fish pictures one by one, Tetras first."
    }
   ],
@@ -532,7 +532,7 @@
   {
    "who": "Boss to-do reminder helper",
    "state": "stopped",
-   "last": "20 Oct 11:48 UTC",
+   "last": "21 Oct 04:00 UTC",
    "hint": "Waiting for Boss's answer in that thread."
   }
  ]
