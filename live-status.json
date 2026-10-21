@@ -1,15 +1,45 @@
 {
  "images": {
-  "today": 114,
-  "week": 1633,
-  "total": 1633,
-  "perhour": 11.3,
-  "live": 1633,
+  "today": 120,
+  "week": 1639,
+  "total": 1639,
+  "perhour": 8.7,
+  "live": 1639,
   "redo": 24,
   "vivid": 11,
   "rejected": 156,
   "next": "X-ray tetra, female",
   "last": [
+   {
+    "n": "Silver hatchetfish",
+    "f": "silver-hatchetfish.webp",
+    "t": "04:49"
+   },
+   {
+    "n": "Sailfin tetra female",
+    "f": "sailfin-tetra__female.webp",
+    "t": "04:46"
+   },
+   {
+    "n": "Sailfin tetra male",
+    "f": "sailfin-tetra__male.webp",
+    "t": "04:39"
+   },
+   {
+    "n": "Sailfin tetra",
+    "f": "sailfin-tetra.webp",
+    "t": "04:33"
+   },
+   {
+    "n": "Ruby tetra",
+    "f": "ruby-tetra.webp",
+    "t": "04:30"
+   },
+   {
+    "n": "Royal tetra female",
+    "f": "royal-tetra__female.webp",
+    "t": "04:26"
+   },
    {
     "n": "Royal tetra male",
     "f": "royal-tetra__male.webp",
@@ -79,36 +109,6 @@
     "n": "One striped african characin",
     "f": "one-striped-african-characin.webp",
     "t": "02:55"
-   },
-   {
-    "n": "One lined pencilfish",
-    "f": "one-lined-pencilfish.webp",
-    "t": "02:49"
-   },
-   {
-    "n": "Long finned african tetra female",
-    "f": "long-finned-african-tetra__female.webp",
-    "t": "02:46"
-   },
-   {
-    "n": "Long finned african tetra male",
-    "f": "long-finned-african-tetra__male.webp",
-    "t": "02:42"
-   },
-   {
-    "n": "Long finned african tetra",
-    "f": "long-finned-african-tetra.webp",
-    "t": "02:36"
-   },
-   {
-    "n": "Januari tetra",
-    "f": "januari-tetra.webp",
-    "t": "02:32"
-   },
-   {
-    "n": "High hat headstander",
-    "f": "high-hat-headstander.webp",
-    "t": "02:29"
    }
   ]
  },
@@ -116,7 +116,7 @@
   "fish-pictures": {
    "done": 64,
    "total": 1579,
-   "label": "Fish list: 64 of 1579 done. Now: Tetras, 88 of 173. 52 new pictures live today (UTC)."
+   "label": "Fish list: 64 of 1579 done. Now: Tetras, 88 of 173. 58 new pictures live today (UTC)."
   },
   "encyclopedia": {
    "done": 1226,
@@ -129,7 +129,7 @@
    "label": "Fish pages complete: 173 of 834 (661 still miss some facts)."
   }
  },
- "asof": "2026-10-21 04:26 UTC",
+ "asof": "2026-10-21 05:26 UTC",
  "sections": {
   "site-quality": [
    {
@@ -141,7 +141,7 @@
    {
     "who": "Project progress tracker",
     "state": "working",
-    "last": "21 Oct 04:25 UTC",
+    "last": "21 Oct 05:26 UTC",
     "hint": "Keeps this progress page up to date."
    },
    {
@@ -154,6 +154,12 @@
     "who": "TankMates design: speed & style guardian",
     "state": "waiting",
     "last": "21 Oct 02:43 UTC",
+    "hint": "Ready for Boss to review."
+   },
+   {
+    "who": "TankMates design: reference scout",
+    "state": "waiting",
+    "last": "21 Oct 04:48 UTC",
     "hint": "Ready for Boss to review."
    },
    {
@@ -253,13 +259,13 @@
    {
     "who": "Species pictures and asset checker",
     "state": "working",
-    "last": "21 Oct 04:25 UTC",
+    "last": "21 Oct 05:16 UTC",
     "hint": "Checks every new fish picture and puts the good ones on the site."
    },
    {
     "who": "Fish pictures on your Mac",
     "state": "working",
-    "last": "21 Oct 04:25 UTC",
+    "last": "21 Oct 05:25 UTC",
     "hint": "Makes the fish pictures one by one, Tetras first."
    }
   ],
