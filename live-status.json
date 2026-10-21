@@ -1,15 +1,75 @@
 {
  "images": {
-  "today": 92,
-  "week": 1611,
-  "total": 1611,
-  "perhour": 10.7,
-  "live": 1611,
+  "today": 104,
+  "week": 1623,
+  "total": 1623,
+  "perhour": 11.7,
+  "live": 1623,
   "redo": 23,
   "vivid": 11,
   "rejected": 155,
   "next": "X-ray tetra, female",
   "last": [
+   {
+    "n": "Red eye tetra",
+    "f": "red-eye-tetra.webp",
+    "t": "03:19"
+   },
+   {
+    "n": "One striped african characin female",
+    "f": "one-striped-african-characin__female.webp",
+    "t": "03:09"
+   },
+   {
+    "n": "One striped african characin male",
+    "f": "one-striped-african-characin__male.webp",
+    "t": "03:02"
+   },
+   {
+    "n": "One striped african characin",
+    "f": "one-striped-african-characin.webp",
+    "t": "02:55"
+   },
+   {
+    "n": "One lined pencilfish",
+    "f": "one-lined-pencilfish.webp",
+    "t": "02:49"
+   },
+   {
+    "n": "Long finned african tetra female",
+    "f": "long-finned-african-tetra__female.webp",
+    "t": "02:46"
+   },
+   {
+    "n": "Long finned african tetra male",
+    "f": "long-finned-african-tetra__male.webp",
+    "t": "02:42"
+   },
+   {
+    "n": "Long finned african tetra",
+    "f": "long-finned-african-tetra.webp",
+    "t": "02:36"
+   },
+   {
+    "n": "Januari tetra",
+    "f": "januari-tetra.webp",
+    "t": "02:32"
+   },
+   {
+    "n": "High hat headstander",
+    "f": "high-hat-headstander.webp",
+    "t": "02:29"
+   },
+   {
+    "n": "Green neon tetra",
+    "f": "green-neon-tetra.webp",
+    "t": "02:22"
+   },
+   {
+    "n": "Gold tetra",
+    "f": "gold-tetra.webp",
+    "t": "02:19"
+   },
    {
     "n": "Glass tetra",
     "f": "glass-tetra.webp",
@@ -49,66 +109,6 @@
     "n": "False rummynose tetra",
     "f": "false-rummynose-tetra.webp",
     "t": "01:46"
-   },
-   {
-    "n": "Dwarf pencilfish",
-    "f": "dwarf-pencilfish.webp",
-    "t": "01:39"
-   },
-   {
-    "n": "Diamond tetra female",
-    "f": "diamond-tetra__female.webp",
-    "t": "01:36"
-   },
-   {
-    "n": "Diamond tetra male",
-    "f": "diamond-tetra__male.webp",
-    "t": "01:30"
-   },
-   {
-    "n": "Diamond tetra",
-    "f": "diamond-tetra.webp",
-    "t": "01:26"
-   },
-   {
-    "n": "Dawn tetra female",
-    "f": "dawn-tetra__female.webp",
-    "t": "01:20"
-   },
-   {
-    "n": "Dawn tetra male",
-    "f": "dawn-tetra__male.webp",
-    "t": "01:13"
-   },
-   {
-    "n": "Dawn tetra",
-    "f": "dawn-tetra.webp",
-    "t": "01:10"
-   },
-   {
-    "n": "Coral red pencilfish",
-    "f": "coral-red-pencilfish.webp",
-    "t": "01:06"
-   },
-   {
-    "n": "Colombian tetra female",
-    "f": "colombian-tetra__female.webp",
-    "t": "01:03"
-   },
-   {
-    "n": "Colombian tetra male",
-    "f": "colombian-tetra__male.webp",
-    "t": "01:00"
-   },
-   {
-    "n": "Colombian tetra",
-    "f": "colombian-tetra.webp",
-    "t": "00:56"
-   },
-   {
-    "n": "Buenos aires tetra female",
-    "f": "buenos-aires-tetra__female.webp",
-    "t": "00:50"
    }
   ]
  },
@@ -116,7 +116,7 @@
   "fish-pictures": {
    "done": 64,
    "total": 1579,
-   "label": "Fish list: 64 of 1579 done. Now: Tetras, 88 of 173. 30 new pictures live today (UTC)."
+   "label": "Fish list: 64 of 1579 done. Now: Tetras, 88 of 173. 42 new pictures live today (UTC)."
   },
   "encyclopedia": {
    "done": 1226,
@@ -129,15 +129,9 @@
    "label": "Fish pages complete: 173 of 834 (661 still miss some facts)."
   }
  },
- "asof": "2026-10-21 02:25 UTC",
+ "asof": "2026-10-21 03:25 UTC",
  "sections": {
   "site-quality": [
-   {
-    "who": "TankMates design: speed & style guardian",
-    "state": "stopped",
-    "last": "20 Oct 22:31 UTC",
-    "hint": "Waiting for Boss's answer in that thread."
-   },
    {
     "who": "Two-step login with authenticator app",
     "state": "stopped",
@@ -147,13 +141,19 @@
    {
     "who": "Project progress tracker",
     "state": "working",
-    "last": "21 Oct 02:25 UTC",
+    "last": "21 Oct 03:25 UTC",
     "hint": "Keeps this progress page up to date."
    },
    {
     "who": "Cloudflare setup on your Mac",
     "state": "waiting",
-    "last": "21 Oct 01:25 UTC",
+    "last": "21 Oct 02:25 UTC",
+    "hint": "Ready for Boss to review."
+   },
+   {
+    "who": "TankMates design: speed & style guardian",
+    "state": "waiting",
+    "last": "21 Oct 02:43 UTC",
     "hint": "Ready for Boss to review."
    },
    {
@@ -253,13 +253,13 @@
    {
     "who": "Species pictures and asset checker",
     "state": "working",
-    "last": "21 Oct 02:25 UTC",
+    "last": "21 Oct 03:25 UTC",
     "hint": "Checks every new fish picture and puts the good ones on the site."
    },
    {
     "who": "Fish pictures on your Mac",
     "state": "working",
-    "last": "21 Oct 02:24 UTC",
+    "last": "21 Oct 03:25 UTC",
     "hint": "Makes the fish pictures one by one, Tetras first."
    }
   ],
@@ -501,7 +501,7 @@
    {
     "who": "Aquarium shops finder and saved shop database",
     "state": "stopped",
-    "last": "21 Oct 00:04 UTC",
+    "last": "21 Oct 03:06 UTC",
     "hint": "Waiting for Boss's answer in that thread."
    }
   ],
