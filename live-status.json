@@ -1,15 +1,80 @@
 {
  "images": {
-  "today": 79,
-  "week": 1598,
-  "total": 1598,
-  "perhour": 26.0,
-  "live": 1598,
+  "today": 92,
+  "week": 1611,
+  "total": 1611,
+  "perhour": 10.7,
+  "live": 1611,
   "redo": 23,
   "vivid": 11,
   "rejected": 155,
   "next": "X-ray tetra, female",
   "last": [
+   {
+    "n": "Glass tetra",
+    "f": "glass-tetra.webp",
+    "t": "02:16"
+   },
+   {
+    "n": "Glass bloodfin tetra",
+    "f": "glass-bloodfin-tetra.webp",
+    "t": "02:09"
+   },
+   {
+    "n": "Giant hatchetfish",
+    "f": "giant-hatchetfish.webp",
+    "t": "02:06"
+   },
+   {
+    "n": "Flame tetra female",
+    "f": "flame-tetra__female.webp",
+    "t": "02:03"
+   },
+   {
+    "n": "Flame tetra male",
+    "f": "flame-tetra__male.webp",
+    "t": "01:59"
+   },
+   {
+    "n": "Flame tetra",
+    "f": "flame-tetra.webp",
+    "t": "01:56"
+   },
+   {
+    "n": "Flag tetra",
+    "f": "flag-tetra.webp",
+    "t": "01:52"
+   },
+   {
+    "n": "False rummynose tetra",
+    "f": "false-rummynose-tetra.webp",
+    "t": "01:46"
+   },
+   {
+    "n": "Dwarf pencilfish",
+    "f": "dwarf-pencilfish.webp",
+    "t": "01:39"
+   },
+   {
+    "n": "Diamond tetra female",
+    "f": "diamond-tetra__female.webp",
+    "t": "01:36"
+   },
+   {
+    "n": "Diamond tetra male",
+    "f": "diamond-tetra__male.webp",
+    "t": "01:30"
+   },
+   {
+    "n": "Diamond tetra",
+    "f": "diamond-tetra.webp",
+    "t": "01:26"
+   },
+   {
+    "n": "Dawn tetra female",
+    "f": "dawn-tetra__female.webp",
+    "t": "01:20"
+   },
    {
     "n": "Dawn tetra male",
     "f": "dawn-tetra__male.webp",
@@ -44,71 +109,6 @@
     "n": "Buenos aires tetra female",
     "f": "buenos-aires-tetra__female.webp",
     "t": "00:50"
-   },
-   {
-    "n": "Buenos aires tetra male",
-    "f": "buenos-aires-tetra__male.webp",
-    "t": "00:43"
-   },
-   {
-    "n": "Buenos aires tetra",
-    "f": "buenos-aires-tetra.webp",
-    "t": "00:39"
-   },
-   {
-    "n": "Blue tetra",
-    "f": "blue-tetra.webp",
-    "t": "00:27"
-   },
-   {
-    "n": "Blackline penguin tetra",
-    "f": "blackline-penguin-tetra.webp",
-    "t": "00:23"
-   },
-   {
-    "n": "Black morpho tetra female",
-    "f": "black-morpho-tetra__female.webp",
-    "t": "00:10"
-   },
-   {
-    "n": "Black morpho tetra male",
-    "f": "black-morpho-tetra__male.webp",
-    "t": "00:04"
-   },
-   {
-    "n": "Black morpho tetra",
-    "f": "black-morpho-tetra.webp",
-    "t": "00:01"
-   },
-   {
-    "n": "Ansorges neolebias female",
-    "f": "ansorges-neolebias__female.webp",
-    "t": "23:54"
-   },
-   {
-    "n": "Ansorges neolebias male",
-    "f": "ansorges-neolebias__male.webp",
-    "t": "23:51"
-   },
-   {
-    "n": "Ansorges neolebias",
-    "f": "ansorges-neolebias.webp",
-    "t": "23:45"
-   },
-   {
-    "n": "Ornate tetra longfin",
-    "f": "ornate-tetra__longfin.webp",
-    "t": "23:41"
-   },
-   {
-    "n": "Ornate tetra female",
-    "f": "ornate-tetra__female.webp",
-    "t": "23:38"
-   },
-   {
-    "n": "Koi godan kohaku front",
-    "f": "fishview--koi-godan-kohaku__front.webp",
-    "t": "23:01"
    }
   ]
  },
@@ -116,7 +116,7 @@
   "fish-pictures": {
    "done": 64,
    "total": 1579,
-   "label": "Fish list: 64 of 1579 done. Now: Tetras, 88 of 173. 17 new pictures live today (UTC)."
+   "label": "Fish list: 64 of 1579 done. Now: Tetras, 88 of 173. 30 new pictures live today (UTC)."
   },
   "encyclopedia": {
    "done": 1226,
@@ -129,7 +129,7 @@
    "label": "Fish pages complete: 173 of 834 (661 still miss some facts)."
   }
  },
- "asof": "2026-10-21 01:25 UTC",
+ "asof": "2026-10-21 02:25 UTC",
  "sections": {
   "site-quality": [
    {
@@ -145,16 +145,16 @@
     "hint": "Waiting for Boss's answer in that thread."
    },
    {
-    "who": "Cloudflare setup on your Mac",
-    "state": "working",
-    "last": "21 Oct 01:25 UTC",
-    "hint": "Checks the live site and the hosting."
-   },
-   {
     "who": "Project progress tracker",
     "state": "working",
-    "last": "21 Oct 01:25 UTC",
+    "last": "21 Oct 02:25 UTC",
     "hint": "Keeps this progress page up to date."
+   },
+   {
+    "who": "Cloudflare setup on your Mac",
+    "state": "waiting",
+    "last": "21 Oct 01:25 UTC",
+    "hint": "Ready for Boss to review."
    },
    {
     "who": "Design agent and style",
@@ -253,13 +253,13 @@
    {
     "who": "Species pictures and asset checker",
     "state": "working",
-    "last": "21 Oct 01:24 UTC",
+    "last": "21 Oct 02:25 UTC",
     "hint": "Checks every new fish picture and puts the good ones on the site."
    },
    {
     "who": "Fish pictures on your Mac",
     "state": "working",
-    "last": "21 Oct 01:24 UTC",
+    "last": "21 Oct 02:24 UTC",
     "hint": "Makes the fish pictures one by one, Tetras first."
    }
   ],
