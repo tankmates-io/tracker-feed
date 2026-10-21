@@ -129,7 +129,7 @@
    "label": "Fish pages complete: 173 of 834 (661 still miss some facts)."
   }
  },
- "asof": "2026-10-21 21:26 UTC",
+ "asof": "2026-10-21 22:26 UTC",
  "sections": {
   "site-quality": [
    {
@@ -141,7 +141,7 @@
    {
     "who": "Project progress tracker",
     "state": "working",
-    "last": "21 Oct 21:25 UTC",
+    "last": "21 Oct 22:25 UTC",
     "hint": "Keeps this progress page up to date."
    },
    {
