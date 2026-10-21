@@ -1,15 +1,65 @@
 {
  "images": {
-  "today": 131,
-  "week": 1650,
-  "total": 1650,
+  "today": 141,
+  "week": 1660,
+  "total": 1660,
   "perhour": 9.0,
-  "live": 1650,
+  "live": 1660,
   "redo": 25,
   "vivid": 11,
   "rejected": 157,
   "next": "X-ray tetra, female",
   "last": [
+   {
+    "n": "Rainbow tetra",
+    "f": "rainbow-tetra.webp",
+    "t": "07:02"
+   },
+   {
+    "n": "Brilliant rummynose tetra",
+    "f": "brilliant-rummynose-tetra.webp",
+    "t": "06:58"
+   },
+   {
+    "n": "Black winged hatchetfish",
+    "f": "black-winged-hatchetfish.webp",
+    "t": "06:55"
+   },
+   {
+    "n": "Yellow tetra",
+    "f": "yellow-tetra.webp",
+    "t": "06:48"
+   },
+   {
+    "n": "Yellow tailed congo tetra female",
+    "f": "yellow-tailed-congo-tetra__female.webp",
+    "t": "06:42"
+   },
+   {
+    "n": "Yellow tailed congo tetra male",
+    "f": "yellow-tailed-congo-tetra__male.webp",
+    "t": "06:35"
+   },
+   {
+    "n": "Yellow tailed congo tetra",
+    "f": "yellow-tailed-congo-tetra.webp",
+    "t": "06:28"
+   },
+   {
+    "n": "White tipped bloodfin",
+    "f": "white-tipped-bloodfin.webp",
+    "t": "06:22"
+   },
+   {
+    "n": "Three lined pencilfish female",
+    "f": "three-lined-pencilfish__female.webp",
+    "t": "06:15"
+   },
+   {
+    "n": "Three lined pencilfish",
+    "f": "three-lined-pencilfish.webp",
+    "t": "06:02"
+   },
    {
     "n": "Striped headstander",
     "f": "striped-headstander.webp",
@@ -59,56 +109,6 @@
     "n": "Silvertip tetra male",
     "f": "silvertip-tetra__male.webp",
     "t": "05:06"
-   },
-   {
-    "n": "Silvertip tetra",
-    "f": "silvertip-tetra.webp",
-    "t": "05:02"
-   },
-   {
-    "n": "Silver hatchetfish",
-    "f": "silver-hatchetfish.webp",
-    "t": "04:49"
-   },
-   {
-    "n": "Sailfin tetra female",
-    "f": "sailfin-tetra__female.webp",
-    "t": "04:46"
-   },
-   {
-    "n": "Sailfin tetra male",
-    "f": "sailfin-tetra__male.webp",
-    "t": "04:39"
-   },
-   {
-    "n": "Sailfin tetra",
-    "f": "sailfin-tetra.webp",
-    "t": "04:33"
-   },
-   {
-    "n": "Ruby tetra",
-    "f": "ruby-tetra.webp",
-    "t": "04:30"
-   },
-   {
-    "n": "Royal tetra female",
-    "f": "royal-tetra__female.webp",
-    "t": "04:26"
-   },
-   {
-    "n": "Royal tetra male",
-    "f": "royal-tetra__male.webp",
-    "t": "04:19"
-   },
-   {
-    "n": "Royal tetra",
-    "f": "royal-tetra.webp",
-    "t": "04:15"
-   },
-   {
-    "n": "Red spotted copeina male",
-    "f": "red-spotted-copeina__male.webp",
-    "t": "04:02"
    }
   ]
  },
@@ -116,7 +116,7 @@
   "fish-pictures": {
    "done": 64,
    "total": 1579,
-   "label": "Fish list: 64 of 1579 done. Now: Tetras, 88 of 173. 69 new pictures live today (UTC)."
+   "label": "Fish list: 64 of 1579 done. Now: Tetras, 88 of 173. 79 new pictures live today (UTC)."
   },
   "encyclopedia": {
    "done": 1226,
@@ -129,7 +129,7 @@
    "label": "Fish pages complete: 173 of 834 (661 still miss some facts)."
   }
  },
- "asof": "2026-10-21 06:26 UTC",
+ "asof": "2026-10-21 07:25 UTC",
  "sections": {
   "site-quality": [
    {
@@ -141,7 +141,7 @@
    {
     "who": "Project progress tracker",
     "state": "working",
-    "last": "21 Oct 06:25 UTC",
+    "last": "21 Oct 07:25 UTC",
     "hint": "Keeps this progress page up to date."
    },
    {
@@ -257,16 +257,16 @@
   ],
   "fish-pictures": [
    {
-    "who": "Fish pictures on your Mac",
+    "who": "Species pictures and asset checker",
     "state": "working",
-    "last": "21 Oct 06:25 UTC",
-    "hint": "Makes the fish pictures one by one, Tetras first."
+    "last": "21 Oct 07:22 UTC",
+    "hint": "Checks every new fish picture and puts the good ones on the site."
    },
    {
-    "who": "Species pictures and asset checker",
-    "state": "idle",
-    "last": "21 Oct 06:23 UTC",
-    "hint": ""
+    "who": "Fish pictures on your Mac",
+    "state": "working",
+    "last": "21 Oct 07:11 UTC",
+    "hint": "Makes the fish pictures one by one, Tetras first."
    },
    {
     "who": "Daily picture audit",
@@ -287,7 +287,7 @@
    {
     "who": "Gamification and daily return",
     "state": "idle",
-    "last": "21 Oct 00:07 UTC",
+    "last": "21 Oct 07:10 UTC",
     "hint": ""
    }
   ],
@@ -415,16 +415,16 @@
   ],
   "design-studio": [
    {
+    "who": "Design Studio engine",
+    "state": "stopped",
+    "last": "21 Oct 06:56 UTC",
+    "hint": "Waiting for Boss's answer in that thread."
+   },
+   {
     "who": "Shared Design Studio templates",
     "state": "stopped",
     "last": "20 Oct 11:47 UTC",
     "hint": "Waiting for Boss's answer in that thread."
-   },
-   {
-    "who": "Design Studio engine",
-    "state": "working",
-    "last": "21 Oct 06:25 UTC",
-    "hint": "Builds the Design Studio tools."
    }
   ],
   "community": [
