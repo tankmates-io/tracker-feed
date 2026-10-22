@@ -1,15 +1,20 @@
 {
  "images": {
   "today": 0,
-  "week": 1660,
-  "total": 1660,
+  "week": 1661,
+  "total": 1661,
   "perhour": 0.0,
-  "live": 1660,
+  "live": 1661,
   "redo": 25,
   "vivid": 11,
   "rejected": 157,
   "next": "X-ray tetra, female",
   "last": [
+   {
+    "n": "Rainbow tetra male",
+    "f": "rainbow-tetra__male.webp",
+    "t": "07:08"
+   },
    {
     "n": "Rainbow tetra",
     "f": "rainbow-tetra.webp",
@@ -104,11 +109,6 @@
     "n": "Silvertip tetra female",
     "f": "silvertip-tetra__female.webp",
     "t": "05:12"
-   },
-   {
-    "n": "Silvertip tetra male",
-    "f": "silvertip-tetra__male.webp",
-    "t": "05:06"
    }
   ]
  },
@@ -116,7 +116,7 @@
   "fish-pictures": {
    "done": 64,
    "total": 1579,
-   "label": "Fish list: 64 of 1579 done. Now: Tetras, 88 of 173. 0 new pictures live today (UTC)."
+   "label": "Fish list: 64 of 1579 done. Now: Tetras, 88 of 173. 1 new pictures live today (UTC)."
   },
   "encyclopedia": {
    "done": 1226,
@@ -129,7 +129,7 @@
    "label": "Fish pages complete: 173 of 834 (661 still miss some facts)."
   }
  },
- "asof": "2026-10-22 05:26 UTC",
+ "asof": "2026-10-22 06:26 UTC",
  "sections": {
   "site-quality": [
    {
@@ -141,7 +141,7 @@
    {
     "who": "Project progress tracker",
     "state": "working",
-    "last": "22 Oct 05:26 UTC",
+    "last": "22 Oct 06:25 UTC",
     "hint": "Keeps this progress page up to date."
    },
    {
@@ -271,7 +271,7 @@
    {
     "who": "Daily picture audit",
     "state": "idle",
-    "last": "21 Oct 06:06 UTC",
+    "last": "22 Oct 06:08 UTC",
     "hint": ""
    }
   ],
@@ -417,7 +417,7 @@
    {
     "who": "Design Studio engine",
     "state": "stopped",
-    "last": "21 Oct 06:56 UTC",
+    "last": "22 Oct 06:24 UTC",
     "hint": "Waiting for Boss's answer in that thread."
    },
    {
