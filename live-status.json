@@ -1,23 +1,73 @@
 {
  "images": {
-  "today": 11,
-  "week": 1672,
-  "total": 1672,
-  "perhour": 3.7,
-  "live": 1672,
+  "today": 21,
+  "week": 1682,
+  "total": 1682,
+  "perhour": 7.0,
+  "live": 1682,
   "redo": 25,
   "vivid": 11,
   "rejected": 157,
   "next": "X-ray tetra, female",
   "last": [
    {
-    "n": "Rosy barb longfin",
-    "f": "rosy-barb__longfin.webp",
-    "t": "21:12"
+    "n": "Java barb albino",
+    "f": "java-barb__albino.webp",
+    "t": "21:42"
    },
    {
-    "n": "Tiger barb longfin",
-    "f": "tiger-barb__longfin.webp",
+    "n": "Cumings barb yellowfinned",
+    "f": "cumings-barb__yellowfinned.webp",
+    "t": "21:39"
+   },
+   {
+    "n": "Cumings barb female",
+    "f": "cumings-barb__female.webp",
+    "t": "21:36"
+   },
+   {
+    "n": "Cumings barb male",
+    "f": "cumings-barb__male.webp",
+    "t": "21:33"
+   },
+   {
+    "n": "Java barb",
+    "f": "java-barb.webp",
+    "t": "21:30"
+   },
+   {
+    "n": "Cumings barb",
+    "f": "cumings-barb.webp",
+    "t": "21:26"
+   },
+   {
+    "n": "Tiger barb glofishmoonrisepink",
+    "f": "tiger-barb__glofishmoonrisepink.webp",
+    "t": "21:25"
+   },
+   {
+    "n": "Tiger barb glofishgalacticpurpl",
+    "f": "tiger-barb__glofishgalacticpurpl.webp",
+    "t": "21:21"
+   },
+   {
+    "n": "Tiger barb glofishsunburstorang",
+    "f": "tiger-barb__glofishsunburstorang.webp",
+    "t": "21:19"
+   },
+   {
+    "n": "Tiger barb glofishstarfirered",
+    "f": "tiger-barb__glofishstarfirered.webp",
+    "t": "21:18"
+   },
+   {
+    "n": "Tiger barb glofishelectricgreen",
+    "f": "tiger-barb__glofishelectricgreen.webp",
+    "t": "21:17"
+   },
+   {
+    "n": "Rosy barb longfin",
+    "f": "rosy-barb__longfin.webp",
     "t": "21:12"
    },
    {
@@ -59,56 +109,6 @@
     "n": "Gold barb female",
     "f": "gold-barb__female.webp",
     "t": "20:33"
-   },
-   {
-    "n": "Gold barb male",
-    "f": "gold-barb__male.webp",
-    "t": "20:30"
-   },
-   {
-    "n": "Rainbow tetra male",
-    "f": "rainbow-tetra__male.webp",
-    "t": "07:08"
-   },
-   {
-    "n": "Rainbow tetra",
-    "f": "rainbow-tetra.webp",
-    "t": "07:02"
-   },
-   {
-    "n": "Brilliant rummynose tetra",
-    "f": "brilliant-rummynose-tetra.webp",
-    "t": "06:58"
-   },
-   {
-    "n": "Black winged hatchetfish",
-    "f": "black-winged-hatchetfish.webp",
-    "t": "06:55"
-   },
-   {
-    "n": "Yellow tetra",
-    "f": "yellow-tetra.webp",
-    "t": "06:48"
-   },
-   {
-    "n": "Yellow tailed congo tetra female",
-    "f": "yellow-tailed-congo-tetra__female.webp",
-    "t": "06:42"
-   },
-   {
-    "n": "Yellow tailed congo tetra male",
-    "f": "yellow-tailed-congo-tetra__male.webp",
-    "t": "06:35"
-   },
-   {
-    "n": "Yellow tailed congo tetra",
-    "f": "yellow-tailed-congo-tetra.webp",
-    "t": "06:28"
-   },
-   {
-    "n": "White tipped bloodfin",
-    "f": "white-tipped-bloodfin.webp",
-    "t": "06:22"
    }
   ]
  },
@@ -116,7 +116,7 @@
   "fish-pictures": {
    "done": 64,
    "total": 1579,
-   "label": "Fish list: 64 of 1579 done. Now: Tetras, 88 of 173. 12 new pictures live today (UTC)."
+   "label": "Fish list: 64 of 1579 done. Now: Tetras, 88 of 173. 22 new pictures live today (UTC)."
   },
   "encyclopedia": {
    "done": 1226,
@@ -129,7 +129,7 @@
    "label": "Fish pages complete: 173 of 834 (661 still miss some facts)."
   }
  },
- "asof": "2026-10-22 21:56 UTC",
+ "asof": "2026-10-22 22:26 UTC",
  "sections": {
   "site-quality": [
    {
@@ -147,7 +147,7 @@
    {
     "who": "Project progress tracker",
     "state": "working",
-    "last": "22 Oct 21:55 UTC",
+    "last": "22 Oct 22:25 UTC",
     "hint": "Keeps this progress page up to date."
    },
    {
@@ -265,14 +265,14 @@
    {
     "who": "Species pictures and asset checker",
     "state": "working",
-    "last": "22 Oct 21:55 UTC",
+    "last": "22 Oct 22:26 UTC",
     "hint": "Checks every new fish picture and puts the good ones on the site."
    },
    {
     "who": "Fish pictures on your Mac",
     "state": "working",
-    "last": "22 Oct 21:43 UTC",
-    "hint": "Making fish pictures, one about every 3 minutes (latest 13 min ago, 12 waiting for the checker)."
+    "last": "22 Oct 22:25 UTC",
+    "hint": "Making fish pictures, one about every 3 minutes (latest 0 min ago, 4 waiting for the checker)."
    },
    {
     "who": "Daily picture audit",
@@ -526,9 +526,9 @@
   "encyclopedia": [
    {
     "who": "Complete species coverage agent",
-    "state": "working",
-    "last": "22 Oct 21:54 UTC",
-    "hint": "Adds about 50 new market species a day with fact-checked profiles."
+    "state": "stopped",
+    "last": "22 Oct 22:00 UTC",
+    "hint": "Waiting for Boss's answer in that thread."
    },
    {
     "who": "Explore page categories and filters",
