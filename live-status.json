@@ -129,7 +129,7 @@
    "label": "Fish pages complete: 173 of 834 (661 still miss some facts)."
   }
  },
- "asof": "2026-10-22 19:26 UTC",
+ "asof": "2026-10-22 20:26 UTC",
  "sections": {
   "site-quality": [
    {
@@ -141,7 +141,7 @@
    {
     "who": "Project progress tracker",
     "state": "working",
-    "last": "22 Oct 19:26 UTC",
+    "last": "22 Oct 20:25 UTC",
     "hint": "Keeps this progress page up to date."
    },
    {
@@ -259,7 +259,7 @@
    {
     "who": "Fish pictures on your Mac",
     "state": "stopped",
-    "last": "21 Oct 07:35 UTC",
+    "last": "22 Oct 20:22 UTC",
     "hint": "Session is offline (the Mac may be asleep). Reopen it to resume."
    },
    {
