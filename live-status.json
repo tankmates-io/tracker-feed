@@ -129,7 +129,7 @@
    "label": "Fish pages complete: 173 of 834 (661 still miss some facts)."
   }
  },
- "asof": "2026-10-22 06:26 UTC",
+ "asof": "2026-10-22 07:26 UTC",
  "sections": {
   "site-quality": [
    {
@@ -141,7 +141,7 @@
    {
     "who": "Project progress tracker",
     "state": "working",
-    "last": "22 Oct 06:25 UTC",
+    "last": "22 Oct 07:25 UTC",
     "hint": "Keeps this progress page up to date."
    },
    {
@@ -287,7 +287,7 @@
    {
     "who": "Gamification and daily return",
     "state": "idle",
-    "last": "21 Oct 07:10 UTC",
+    "last": "22 Oct 07:06 UTC",
     "hint": ""
    }
   ],
