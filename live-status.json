@@ -1,10 +1,10 @@
 {
  "images": {
-  "today": 17,
-  "week": 1678,
-  "total": 1678,
-  "perhour": 5.7,
-  "live": 1678,
+  "today": 11,
+  "week": 1672,
+  "total": 1672,
+  "perhour": 3.7,
+  "live": 1672,
   "redo": 25,
   "vivid": 11,
   "rejected": 157,
@@ -21,21 +21,6 @@
     "t": "21:12"
    },
    {
-    "n": "Tiger barb goldplatinum",
-    "f": "tiger-barb__goldplatinum.webp",
-    "t": "21:08"
-   },
-   {
-    "n": "Rosy barb neonredrosy",
-    "f": "rosy-barb__neonredrosy.webp",
-    "t": "21:06"
-   },
-   {
-    "n": "Tiger barb albino",
-    "f": "tiger-barb__albino.webp",
-    "t": "21:05"
-   },
-   {
     "n": "Rosy barb female",
     "f": "rosy-barb__female.webp",
     "t": "21:02"
@@ -49,16 +34,6 @@
     "n": "Tiger barb female",
     "f": "tiger-barb__female.webp",
     "t": "20:58"
-   },
-   {
-    "n": "Rosy barb male",
-    "f": "rosy-barb__male.webp",
-    "t": "20:56"
-   },
-   {
-    "n": "Tiger barb male",
-    "f": "tiger-barb__male.webp",
-    "t": "20:52"
    },
    {
     "n": "Rosy barb",
@@ -91,11 +66,6 @@
     "t": "20:30"
    },
    {
-    "n": "Cherry barb",
-    "f": "cherry-barb.webp",
-    "t": "20:27"
-   },
-   {
     "n": "Rainbow tetra male",
     "f": "rainbow-tetra__male.webp",
     "t": "07:08"
@@ -109,6 +79,36 @@
     "n": "Brilliant rummynose tetra",
     "f": "brilliant-rummynose-tetra.webp",
     "t": "06:58"
+   },
+   {
+    "n": "Black winged hatchetfish",
+    "f": "black-winged-hatchetfish.webp",
+    "t": "06:55"
+   },
+   {
+    "n": "Yellow tetra",
+    "f": "yellow-tetra.webp",
+    "t": "06:48"
+   },
+   {
+    "n": "Yellow tailed congo tetra female",
+    "f": "yellow-tailed-congo-tetra__female.webp",
+    "t": "06:42"
+   },
+   {
+    "n": "Yellow tailed congo tetra male",
+    "f": "yellow-tailed-congo-tetra__male.webp",
+    "t": "06:35"
+   },
+   {
+    "n": "Yellow tailed congo tetra",
+    "f": "yellow-tailed-congo-tetra.webp",
+    "t": "06:28"
+   },
+   {
+    "n": "White tipped bloodfin",
+    "f": "white-tipped-bloodfin.webp",
+    "t": "06:22"
    }
   ]
  },
@@ -116,7 +116,7 @@
   "fish-pictures": {
    "done": 64,
    "total": 1579,
-   "label": "Fish list: 64 of 1579 done. Now: Tetras, 88 of 173. 18 new pictures live today (UTC)."
+   "label": "Fish list: 64 of 1579 done. Now: Tetras, 88 of 173. 12 new pictures live today (UTC)."
   },
   "encyclopedia": {
    "done": 1226,
@@ -129,7 +129,7 @@
    "label": "Fish pages complete: 173 of 834 (661 still miss some facts)."
   }
  },
- "asof": "2026-10-22 21:26 UTC",
+ "asof": "2026-10-22 21:56 UTC",
  "sections": {
   "site-quality": [
    {
@@ -139,9 +139,15 @@
     "hint": "Waiting for Boss's answer in that thread."
    },
    {
+    "who": "Gap sweep and next tasks",
+    "state": "stopped",
+    "last": "22 Oct 21:31 UTC",
+    "hint": "Waiting for Boss's answer in that thread."
+   },
+   {
     "who": "Project progress tracker",
     "state": "working",
-    "last": "22 Oct 21:26 UTC",
+    "last": "22 Oct 21:55 UTC",
     "hint": "Keeps this progress page up to date."
    },
    {
@@ -215,7 +221,7 @@
    {
     "who": "Species fact checking",
     "state": "stopped",
-    "last": "20 Oct 17:26 UTC",
+    "last": "22 Oct 21:47 UTC",
     "hint": "Waiting for Boss's answer in that thread."
    },
    {
@@ -257,16 +263,16 @@
   ],
   "fish-pictures": [
    {
-    "who": "Fish pictures on your Mac",
-    "state": "stopped",
-    "last": "22 Oct 21:22 UTC",
-    "hint": "Session is offline (the Mac may be asleep). Reopen it to resume."
-   },
-   {
     "who": "Species pictures and asset checker",
     "state": "working",
-    "last": "22 Oct 21:26 UTC",
+    "last": "22 Oct 21:55 UTC",
     "hint": "Checks every new fish picture and puts the good ones on the site."
+   },
+   {
+    "who": "Fish pictures on your Mac",
+    "state": "working",
+    "last": "22 Oct 21:43 UTC",
+    "hint": "Making fish pictures, one about every 3 minutes (latest 13 min ago, 12 waiting for the checker)."
    },
    {
     "who": "Daily picture audit",
@@ -519,15 +525,15 @@
   ],
   "encyclopedia": [
    {
+    "who": "Complete species coverage agent",
+    "state": "working",
+    "last": "22 Oct 21:54 UTC",
+    "hint": "Adds about 50 new market species a day with fact-checked profiles."
+   },
+   {
     "who": "Explore page categories and filters",
     "state": "idle",
     "last": "20 Oct 14:34 UTC",
-    "hint": ""
-   },
-   {
-    "who": "Complete species coverage agent",
-    "state": "idle",
-    "last": "21 Oct 00:40 UTC",
     "hint": ""
    }
   ],
