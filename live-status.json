@@ -129,7 +129,7 @@
    "label": "Fish pages complete: 173 of 834 (661 still miss some facts)."
   }
  },
- "asof": "2026-10-22 04:25 UTC",
+ "asof": "2026-10-22 05:26 UTC",
  "sections": {
   "site-quality": [
    {
@@ -141,19 +141,13 @@
    {
     "who": "Project progress tracker",
     "state": "working",
-    "last": "22 Oct 04:25 UTC",
+    "last": "22 Oct 05:26 UTC",
     "hint": "Keeps this progress page up to date."
    },
    {
     "who": "TankMates design: speed & style guardian",
     "state": "waiting",
     "last": "22 Oct 02:44 UTC",
-    "hint": "Ready for Boss to review."
-   },
-   {
-    "who": "TankMates design: reference scout",
-    "state": "waiting",
-    "last": "21 Oct 04:48 UTC",
     "hint": "Ready for Boss to review."
    },
    {
@@ -208,6 +202,12 @@
     "who": "Site polish icons and search",
     "state": "idle",
     "last": "21 Oct 00:47 UTC",
+    "hint": ""
+   },
+   {
+    "who": "TankMates design: reference scout",
+    "state": "idle",
+    "last": "21 Oct 04:48 UTC",
     "hint": ""
    }
   ],
