@@ -129,7 +129,7 @@
    "label": "Fish pages complete: 173 of 834 (661 still miss some facts)."
   }
  },
- "asof": "2026-10-22 07:26 UTC",
+ "asof": "2026-10-22 08:26 UTC",
  "sections": {
   "site-quality": [
    {
@@ -141,7 +141,7 @@
    {
     "who": "Project progress tracker",
     "state": "working",
-    "last": "22 Oct 07:25 UTC",
+    "last": "22 Oct 08:25 UTC",
     "hint": "Keeps this progress page up to date."
    },
    {
@@ -264,9 +264,9 @@
    },
    {
     "who": "Species pictures and asset checker",
-    "state": "waiting",
+    "state": "idle",
     "last": "21 Oct 07:36 UTC",
-    "hint": "Ready for Boss to review."
+    "hint": ""
    },
    {
     "who": "Daily picture audit",
