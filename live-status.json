@@ -116,7 +116,7 @@
   "fish-pictures": {
    "done": 64,
    "total": 1579,
-   "label": "Fish list: 64 of 1579 done. Now: Tetras, 88 of 173. 79 new pictures live today (UTC)."
+   "label": "Fish list: 64 of 1579 done. Now: Tetras, 88 of 173. 0 new pictures live today (UTC)."
   },
   "encyclopedia": {
    "done": 1226,
@@ -129,7 +129,7 @@
    "label": "Fish pages complete: 173 of 834 (661 still miss some facts)."
   }
  },
- "asof": "2026-10-21 23:25 UTC",
+ "asof": "2026-10-22 00:26 UTC",
  "sections": {
   "site-quality": [
    {
@@ -141,7 +141,7 @@
    {
     "who": "Project progress tracker",
     "state": "working",
-    "last": "21 Oct 23:25 UTC",
+    "last": "22 Oct 00:26 UTC",
     "hint": "Keeps this progress page up to date."
    },
    {
@@ -278,9 +278,9 @@
   "ready-tanks": [
    {
     "who": "Ready-made tanks redo",
-    "state": "waiting",
+    "state": "idle",
     "last": "21 Oct 00:10 UTC",
-    "hint": "Ready for Boss to review."
+    "hint": ""
    }
   ],
   "games": [
@@ -396,9 +396,9 @@
   "pond": [
    {
     "who": "Pond section build-out",
-    "state": "waiting",
+    "state": "idle",
     "last": "21 Oct 00:04 UTC",
-    "hint": "Ready for Boss to review."
+    "hint": ""
    },
    {
     "who": "Koi varieties and assets",
@@ -504,9 +504,9 @@
   "reptiles": [
    {
     "who": "Reptile section and profiles",
-    "state": "waiting",
+    "state": "idle",
     "last": "21 Oct 00:05 UTC",
-    "hint": "Ready for Boss to review."
+    "hint": ""
    }
   ],
   "shops": [
