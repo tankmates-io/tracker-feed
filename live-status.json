@@ -1,15 +1,100 @@
 {
  "images": {
-  "today": 0,
-  "week": 1661,
-  "total": 1661,
-  "perhour": 0.0,
-  "live": 1661,
+  "today": 17,
+  "week": 1678,
+  "total": 1678,
+  "perhour": 5.7,
+  "live": 1678,
   "redo": 25,
   "vivid": 11,
   "rejected": 157,
   "next": "X-ray tetra, female",
   "last": [
+   {
+    "n": "Rosy barb longfin",
+    "f": "rosy-barb__longfin.webp",
+    "t": "21:12"
+   },
+   {
+    "n": "Tiger barb longfin",
+    "f": "tiger-barb__longfin.webp",
+    "t": "21:12"
+   },
+   {
+    "n": "Tiger barb goldplatinum",
+    "f": "tiger-barb__goldplatinum.webp",
+    "t": "21:08"
+   },
+   {
+    "n": "Rosy barb neonredrosy",
+    "f": "rosy-barb__neonredrosy.webp",
+    "t": "21:06"
+   },
+   {
+    "n": "Tiger barb albino",
+    "f": "tiger-barb__albino.webp",
+    "t": "21:05"
+   },
+   {
+    "n": "Rosy barb female",
+    "f": "rosy-barb__female.webp",
+    "t": "21:02"
+   },
+   {
+    "n": "Tiger barb greenmoss",
+    "f": "tiger-barb__greenmoss.webp",
+    "t": "21:01"
+   },
+   {
+    "n": "Tiger barb female",
+    "f": "tiger-barb__female.webp",
+    "t": "20:58"
+   },
+   {
+    "n": "Rosy barb male",
+    "f": "rosy-barb__male.webp",
+    "t": "20:56"
+   },
+   {
+    "n": "Tiger barb male",
+    "f": "tiger-barb__male.webp",
+    "t": "20:52"
+   },
+   {
+    "n": "Rosy barb",
+    "f": "rosy-barb.webp",
+    "t": "20:49"
+   },
+   {
+    "n": "Odessa barb female",
+    "f": "odessa-barb__female.webp",
+    "t": "20:47"
+   },
+   {
+    "n": "Odessa barb male",
+    "f": "odessa-barb__male.webp",
+    "t": "20:41"
+   },
+   {
+    "n": "Cherry barb female",
+    "f": "cherry-barb__female.webp",
+    "t": "20:37"
+   },
+   {
+    "n": "Gold barb female",
+    "f": "gold-barb__female.webp",
+    "t": "20:33"
+   },
+   {
+    "n": "Gold barb male",
+    "f": "gold-barb__male.webp",
+    "t": "20:30"
+   },
+   {
+    "n": "Cherry barb",
+    "f": "cherry-barb.webp",
+    "t": "20:27"
+   },
    {
     "n": "Rainbow tetra male",
     "f": "rainbow-tetra__male.webp",
@@ -24,91 +109,6 @@
     "n": "Brilliant rummynose tetra",
     "f": "brilliant-rummynose-tetra.webp",
     "t": "06:58"
-   },
-   {
-    "n": "Black winged hatchetfish",
-    "f": "black-winged-hatchetfish.webp",
-    "t": "06:55"
-   },
-   {
-    "n": "Yellow tetra",
-    "f": "yellow-tetra.webp",
-    "t": "06:48"
-   },
-   {
-    "n": "Yellow tailed congo tetra female",
-    "f": "yellow-tailed-congo-tetra__female.webp",
-    "t": "06:42"
-   },
-   {
-    "n": "Yellow tailed congo tetra male",
-    "f": "yellow-tailed-congo-tetra__male.webp",
-    "t": "06:35"
-   },
-   {
-    "n": "Yellow tailed congo tetra",
-    "f": "yellow-tailed-congo-tetra.webp",
-    "t": "06:28"
-   },
-   {
-    "n": "White tipped bloodfin",
-    "f": "white-tipped-bloodfin.webp",
-    "t": "06:22"
-   },
-   {
-    "n": "Three lined pencilfish female",
-    "f": "three-lined-pencilfish__female.webp",
-    "t": "06:15"
-   },
-   {
-    "n": "Three lined pencilfish",
-    "f": "three-lined-pencilfish.webp",
-    "t": "06:02"
-   },
-   {
-    "n": "Striped headstander",
-    "f": "striped-headstander.webp",
-    "t": "05:58"
-   },
-   {
-    "n": "Spotted silver dollar female",
-    "f": "spotted-silver-dollar__female.webp",
-    "t": "05:52"
-   },
-   {
-    "n": "Spotted silver dollar male",
-    "f": "spotted-silver-dollar__male.webp",
-    "t": "05:45"
-   },
-   {
-    "n": "Spotted silver dollar",
-    "f": "spotted-silver-dollar.webp",
-    "t": "05:38"
-   },
-   {
-    "n": "Spotted headstander",
-    "f": "spotted-headstander.webp",
-    "t": "05:32"
-   },
-   {
-    "n": "Splashing tetra female",
-    "f": "splashing-tetra__female.webp",
-    "t": "05:29"
-   },
-   {
-    "n": "Splashing tetra male",
-    "f": "splashing-tetra__male.webp",
-    "t": "05:25"
-   },
-   {
-    "n": "Splashing tetra",
-    "f": "splashing-tetra.webp",
-    "t": "05:19"
-   },
-   {
-    "n": "Silvertip tetra female",
-    "f": "silvertip-tetra__female.webp",
-    "t": "05:12"
    }
   ]
  },
@@ -116,7 +116,7 @@
   "fish-pictures": {
    "done": 64,
    "total": 1579,
-   "label": "Fish list: 64 of 1579 done. Now: Tetras, 88 of 173. 1 new pictures live today (UTC)."
+   "label": "Fish list: 64 of 1579 done. Now: Tetras, 88 of 173. 18 new pictures live today (UTC)."
   },
   "encyclopedia": {
    "done": 1226,
@@ -129,7 +129,7 @@
    "label": "Fish pages complete: 173 of 834 (661 still miss some facts)."
   }
  },
- "asof": "2026-10-22 20:26 UTC",
+ "asof": "2026-10-22 21:26 UTC",
  "sections": {
   "site-quality": [
    {
@@ -141,7 +141,7 @@
    {
     "who": "Project progress tracker",
     "state": "working",
-    "last": "22 Oct 20:25 UTC",
+    "last": "22 Oct 21:26 UTC",
     "hint": "Keeps this progress page up to date."
    },
    {
@@ -259,14 +259,14 @@
    {
     "who": "Fish pictures on your Mac",
     "state": "stopped",
-    "last": "22 Oct 20:22 UTC",
+    "last": "22 Oct 21:22 UTC",
     "hint": "Session is offline (the Mac may be asleep). Reopen it to resume."
    },
    {
     "who": "Species pictures and asset checker",
-    "state": "idle",
-    "last": "21 Oct 07:36 UTC",
-    "hint": ""
+    "state": "working",
+    "last": "22 Oct 21:26 UTC",
+    "hint": "Checks every new fish picture and puts the good ones on the site."
    },
    {
     "who": "Daily picture audit",
