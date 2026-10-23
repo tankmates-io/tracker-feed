@@ -129,7 +129,7 @@
    "label": "Fish pages complete: 173 of 834 (661 still miss some facts)."
   }
  },
- "asof": "2026-10-23 06:26 UTC",
+ "asof": "2026-10-23 07:26 UTC",
  "sections": {
   "site-quality": [
    {
@@ -147,7 +147,7 @@
    {
     "who": "Project progress tracker",
     "state": "working",
-    "last": "23 Oct 06:25 UTC",
+    "last": "23 Oct 07:25 UTC",
     "hint": "Keeps this progress page up to date."
    },
    {
@@ -270,15 +270,15 @@
   "fish-pictures": [
    {
     "who": "Fish pictures on your Mac",
-    "state": "working",
-    "last": "23 Oct 06:25 UTC",
-    "hint": "Makes the fish pictures one by one, Tetras first."
+    "state": "stopped",
+    "last": "23 Oct 07:16 UTC",
+    "hint": "Waiting for Boss's answer in that thread."
    },
    {
     "who": "Daily picture audit",
-    "state": "working",
+    "state": "waiting",
     "last": "23 Oct 06:03 UTC",
-    "hint": ""
+    "hint": "Ready for Boss to review."
    },
    {
     "who": "Species pictures and asset checker",
@@ -305,7 +305,7 @@
    {
     "who": "Gamification and daily return",
     "state": "idle",
-    "last": "22 Oct 07:06 UTC",
+    "last": "23 Oct 07:06 UTC",
     "hint": ""
    }
   ],
