@@ -3,7 +3,7 @@
   "today": 36,
   "week": 1691,
   "total": 1691,
-  "perhour": 2.7,
+  "perhour": 0.0,
   "live": 1691,
   "redo": 25,
   "vivid": 11,
@@ -129,7 +129,7 @@
    "label": "Fish pages complete: 173 of 834 (661 still miss some facts)."
   }
  },
- "asof": "2026-10-23 03:26 UTC",
+ "asof": "2026-10-23 04:26 UTC",
  "sections": {
   "site-quality": [
    {
@@ -147,7 +147,7 @@
    {
     "who": "Project progress tracker",
     "state": "working",
-    "last": "23 Oct 03:25 UTC",
+    "last": "23 Oct 04:25 UTC",
     "hint": "Keeps this progress page up to date."
    },
    {
@@ -556,7 +556,7 @@
   {
    "who": "Boss to-do reminder helper",
    "state": "stopped",
-   "last": "22 Oct 04:00 UTC",
+   "last": "23 Oct 04:00 UTC",
    "hint": "Waiting for Boss's answer in that thread."
   }
  ]
