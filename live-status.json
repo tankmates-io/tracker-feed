@@ -3,7 +3,7 @@
   "today": 36,
   "week": 1691,
   "total": 1691,
-  "perhour": 4.0,
+  "perhour": 2.7,
   "live": 1691,
   "redo": 25,
   "vivid": 11,
@@ -129,7 +129,7 @@
    "label": "Fish pages complete: 173 of 834 (661 still miss some facts)."
   }
  },
- "asof": "2026-10-23 01:26 UTC",
+ "asof": "2026-10-23 02:26 UTC",
  "sections": {
   "site-quality": [
    {
@@ -147,7 +147,7 @@
    {
     "who": "Project progress tracker",
     "state": "working",
-    "last": "23 Oct 01:25 UTC",
+    "last": "23 Oct 02:25 UTC",
     "hint": "Keeps this progress page up to date."
    },
    {
@@ -265,8 +265,8 @@
    {
     "who": "Fish pictures on your Mac",
     "state": "working",
-    "last": "23 Oct 01:15 UTC",
-    "hint": "Making fish pictures, one about every 3 minutes (latest 11 min ago, 6 waiting for the checker)."
+    "last": "23 Oct 02:16 UTC",
+    "hint": "Makes the fish pictures one by one, Tetras first."
    },
    {
     "who": "Species pictures and asset checker",
