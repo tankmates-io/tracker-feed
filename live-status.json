@@ -3,7 +3,7 @@
   "today": 28,
   "week": 1686,
   "total": 1686,
-  "perhour": 9.3,
+  "perhour": 4.3,
   "live": 1686,
   "redo": 25,
   "vivid": 11,
@@ -116,7 +116,7 @@
   "fish-pictures": {
    "done": 64,
    "total": 1579,
-   "label": "Fish list: 64 of 1579 done. Now: Tetras, 88 of 173. 29 new pictures live today (UTC)."
+   "label": "Fish list: 64 of 1579 done. Now: Tetras, 88 of 173. 0 new pictures live today (UTC)."
   },
   "encyclopedia": {
    "done": 1226,
@@ -129,7 +129,7 @@
    "label": "Fish pages complete: 173 of 834 (661 still miss some facts)."
   }
  },
- "asof": "2026-10-22 23:25 UTC",
+ "asof": "2026-10-23 00:26 UTC",
  "sections": {
   "site-quality": [
    {
@@ -147,7 +147,7 @@
    {
     "who": "Project progress tracker",
     "state": "working",
-    "last": "22 Oct 23:25 UTC",
+    "last": "23 Oct 00:25 UTC",
     "hint": "Keeps this progress page up to date."
    },
    {
@@ -264,15 +264,15 @@
   "fish-pictures": [
    {
     "who": "Fish pictures on your Mac",
-    "state": "stopped",
-    "last": "22 Oct 22:42 UTC",
-    "hint": "Waiting for Boss's answer in that thread."
+    "state": "working",
+    "last": "23 Oct 00:24 UTC",
+    "hint": "Makes the fish pictures one by one, Tetras first."
    },
    {
     "who": "Species pictures and asset checker",
-    "state": "working",
+    "state": "waiting",
     "last": "22 Oct 23:12 UTC",
-    "hint": "Checks every new fish picture and puts the good ones on the site."
+    "hint": "Ready for Boss to review."
    },
    {
     "who": "Daily picture audit",
