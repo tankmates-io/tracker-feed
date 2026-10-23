@@ -129,7 +129,7 @@
    "label": "Fish pages complete: 173 of 834 (661 still miss some facts)."
   }
  },
- "asof": "2026-10-23 04:26 UTC",
+ "asof": "2026-10-23 05:26 UTC",
  "sections": {
   "site-quality": [
    {
@@ -147,7 +147,7 @@
    {
     "who": "Project progress tracker",
     "state": "working",
-    "last": "23 Oct 04:25 UTC",
+    "last": "23 Oct 05:26 UTC",
     "hint": "Keeps this progress page up to date."
    },
    {
@@ -400,9 +400,9 @@
   "care-health": [
    {
     "who": "Health problems pictures and health agent",
-    "state": "idle",
-    "last": "20 Oct 23:00 UTC",
-    "hint": ""
+    "state": "stopped",
+    "last": "23 Oct 04:55 UTC",
+    "hint": "Waiting for Boss's answer in that thread."
    }
   ],
   "pond": [
