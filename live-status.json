@@ -129,7 +129,7 @@
    "label": "Fish pages complete: 173 of 834 (661 still miss some facts)."
   }
  },
- "asof": "2026-10-23 07:26 UTC",
+ "asof": "2026-10-23 08:26 UTC",
  "sections": {
   "site-quality": [
    {
@@ -147,7 +147,7 @@
    {
     "who": "Project progress tracker",
     "state": "working",
-    "last": "23 Oct 07:25 UTC",
+    "last": "23 Oct 08:25 UTC",
     "hint": "Keeps this progress page up to date."
    },
    {
@@ -270,9 +270,9 @@
   "fish-pictures": [
    {
     "who": "Fish pictures on your Mac",
-    "state": "stopped",
-    "last": "23 Oct 07:16 UTC",
-    "hint": "Waiting for Boss's answer in that thread."
+    "state": "working",
+    "last": "23 Oct 08:22 UTC",
+    "hint": "Making fish pictures, one about every 3 minutes (latest 3 min ago, 30 waiting for the checker)."
    },
    {
     "who": "Daily picture audit",
